@@ -1,0 +1,1001 @@
+customer_id,customer_tenure,customer_location,customer_type,order_id,order_date,order_value,payment_method,order_frequency,discount_applied,return_status,product_category,product_sku,size,inventory_status,source,engagement_score
+CUST00001,39,Delhi,Returning,ORD000001,2023-12-08,4015.21,Net Banking,9,5,No,Jackets,SKU0001,XXL,In Stock,Word of Mouth,36
+CUST00002,52,Hyderabad,Returning,ORD000002,2023-09-06,2205.61,Credit Card,3,15,No,T-Shirts,SKU0002,S,Out of Stock,Google Ads,37
+CUST00003,29,Pune,Returning,ORD000003,2023-05-01,858.84,Net Banking,8,30,No,T-Shirts,SKU0003,L,In Stock,Email Marketing,95
+CUST00004,15,Jaipur,Returning,ORD000004,2023-03-02,500.0,UPI,1,0,No,T-Shirts,SKU0004,XXL,In Stock,Word of Mouth,10
+CUST00005,43,Pune,Returning,ORD000005,2023-04-11,1843.5,Wallet,9,40,Yes,Sweatshirts,SKU0005,L,In Stock,Word of Mouth,0
+CUST00006,8,Delhi,New,ORD000006,2023-01-28,720.5,COD,9,20,No,T-Shirts,SKU0006,XXL,In Stock,Email Marketing,24
+CUST00007,21,Delhi,Returning,ORD000007,2023-04-28,6396.56,Net Banking,2,30,Yes,T-Shirts,SKU0007,XXL,In Stock,Instagram,41
+CUST00008,39,Delhi,Returning,ORD000008,2023-04-03,1524.44,Net Banking,4,15,Yes,Shirts,SKU0008,S,In Stock,Email Marketing,51
+CUST00009,58,Kolkata,Returning,ORD000009,2023-02-23,1483.44,Credit Card,8,25,No,T-Shirts,SKU0009,M,In Stock,Facebook Ads,23
+CUST00010,19,Kolkata,Returning,ORD000010,2023-05-21,500.0,Credit Card,7,0,No,Jeans,SKU0010,XXL,In Stock,Email Marketing,52
+CUST00011,23,Bangalore,Returning,ORD000011,2023-01-20,2100.52,Net Banking,1,30,No,Jackets,SKU0011,XXL,In Stock,Instagram,55
+CUST00012,11,Bangalore,New,ORD000012,2023-08-06,1503.2,UPI,5,0,No,Sweatshirts,SKU0012,S,In Stock,Email Marketing,62
+CUST00013,11,Delhi,New,ORD000013,2023-08-11,5106.59,COD,7,30,No,Dresses,SKU0013,M,Out of Stock,Word of Mouth,80
+CUST00014,24,Hyderabad,Returning,ORD000014,2023-07-28,2752.71,Credit Card,4,50,No,Jackets,SKU0014,XL,In Stock,Google Ads,7
+CUST00015,53,Mumbai,Returning,ORD000015,2023-08-30,2486.7,UPI,1,0,No,Shirts,SKU0015,XL,In Stock,Word of Mouth,58
+CUST00016,36,Kolkata,Returning,ORD000016,2023-04-18,2297.99,Wallet,9,0,No,Sweatshirts,SKU0016,M,In Stock,Google Ads,44
+CUST00017,40,Hyderabad,Returning,ORD000017,2023-07-18,3679.26,Credit Card,5,25,No,Sweatshirts,SKU0017,L,In Stock,Email Marketing,26
+CUST00018,24,Chennai,Returning,ORD000018,2023-02-23,1821.51,UPI,2,0,No,Jeans,SKU0018,S,In Stock,Facebook Ads,51
+CUST00019,3,Kolkata,New,ORD000019,2023-04-17,3500.81,UPI,8,30,No,Jackets,SKU0019,M,In Stock,Email Marketing,17
+CUST00020,22,Kolkata,Returning,ORD000020,2023-07-08,4920.95,COD,2,0,Yes,Jackets,SKU0020,XL,In Stock,Instagram,90
+CUST00021,53,Bangalore,Returning,ORD000021,2023-02-05,3190.11,COD,3,0,No,T-Shirts,SKU0021,XXL,In Stock,Email Marketing,85
+CUST00022,2,Mumbai,New,ORD000022,2023-04-19,2125.4,Wallet,1,50,No,Jeans,SKU0022,XL,In Stock,Google Ads,15
+CUST00023,24,Mumbai,Returning,ORD000023,2023-04-17,1069.81,UPI,2,20,No,T-Shirts,SKU0023,XXL,Out of Stock,Word of Mouth,65
+CUST00024,44,Jaipur,Returning,ORD000024,2023-07-21,2087.31,UPI,7,30,Yes,T-Shirts,SKU0024,S,Out of Stock,Facebook Ads,4
+CUST00025,30,Pune,Returning,ORD000025,2023-07-11,3344.62,COD,2,5,No,Sweatshirts,SKU0025,XXL,In Stock,Email Marketing,81
+CUST00026,38,Pune,Returning,ORD000026,2023-02-07,500.0,Credit Card,6,20,No,Jackets,SKU0026,M,In Stock,Email Marketing,2
+CUST00027,2,Pune,New,ORD000027,2023-07-01,3747.31,Credit Card,3,15,No,T-Shirts,SKU0027,XXL,In Stock,Word of Mouth,90
+CUST00028,60,Pune,Returning,ORD000028,2023-12-30,2811.42,Net Banking,4,20,Yes,Shirts,SKU0028,L,In Stock,Facebook Ads,80
+CUST00029,21,Chennai,Returning,ORD000029,2023-04-13,2276.22,COD,8,20,No,Shirts,SKU0029,M,In Stock,Email Marketing,79
+CUST00030,33,Chennai,Returning,ORD000030,2023-11-23,1510.88,Net Banking,3,15,No,Jackets,SKU0030,S,In Stock,Email Marketing,69
+CUST00031,12,Kolkata,New,ORD000031,2023-12-11,1785.43,COD,6,10,No,Shirts,SKU0031,M,In Stock,Google Ads,6
+CUST00032,58,Delhi,Returning,ORD000032,2023-06-01,3395.96,Wallet,1,0,No,Sweatshirts,SKU0032,L,In Stock,Google Ads,49
+CUST00033,22,Bangalore,Returning,ORD000033,2023-03-31,2307.68,UPI,7,25,No,Jeans,SKU0033,S,In Stock,Instagram,13
+CUST00034,44,Bangalore,Returning,ORD000034,2023-06-16,1748.29,Wallet,8,0,No,Dresses,SKU0034,XL,In Stock,Word of Mouth,37
+CUST00035,25,Pune,Returning,ORD000035,2023-04-19,3202.85,COD,8,20,Yes,T-Shirts,SKU0035,L,In Stock,Facebook Ads,78
+CUST00036,49,Kolkata,Returning,ORD000036,2023-04-30,3262.28,UPI,3,0,Yes,Dresses,SKU0036,S,In Stock,Email Marketing,46
+CUST00037,27,Jaipur,Returning,ORD000037,2023-09-22,626.24,Credit Card,1,20,No,Jeans,SKU0037,XXL,In Stock,Email Marketing,32
+CUST00038,59,Hyderabad,Returning,ORD000038,2023-11-28,3357.22,Credit Card,9,25,No,Jeans,SKU0038,M,In Stock,Instagram,42
+CUST00039,42,Delhi,Returning,ORD000039,2023-03-08,6252.55,Net Banking,6,0,Yes,Sweatshirts,SKU0039,S,In Stock,Email Marketing,90
+CUST00040,28,Kolkata,Returning,ORD000040,2023-06-03,3204.43,COD,9,0,No,Shirts,SKU0040,M,In Stock,Word of Mouth,28
+CUST00041,60,Delhi,Returning,ORD000041,2023-01-05,500.0,COD,7,0,No,Shirts,SKU0041,XXL,In Stock,Instagram,56
+CUST00042,16,Delhi,Returning,ORD000042,2023-07-07,2766.06,Credit Card,1,20,Yes,Jeans,SKU0042,S,In Stock,Word of Mouth,100
+CUST00043,15,Delhi,Returning,ORD000043,2023-02-20,500.0,Wallet,1,30,No,Sweatshirts,SKU0043,XL,In Stock,Instagram,4
+CUST00044,47,Kolkata,Returning,ORD000044,2023-01-28,7251.06,UPI,6,0,Yes,Sweatshirts,SKU0044,L,In Stock,Email Marketing,92
+CUST00045,51,Pune,Returning,ORD000045,2023-10-04,5853.51,Wallet,5,25,Yes,Jackets,SKU0045,S,Out of Stock,Instagram,95
+CUST00046,44,Bangalore,Returning,ORD000046,2023-10-03,1501.09,Wallet,9,5,Yes,T-Shirts,SKU0046,XXL,In Stock,Google Ads,59
+CUST00047,55,Bangalore,Returning,ORD000047,2023-03-09,500.0,Credit Card,2,10,No,Shirts,SKU0047,S,In Stock,Facebook Ads,69
+CUST00048,52,Pune,Returning,ORD000048,2023-10-21,1182.44,Credit Card,8,40,Yes,Jeans,SKU0048,M,Out of Stock,Email Marketing,1
+CUST00049,57,Delhi,Returning,ORD000049,2023-09-18,2228.51,Credit Card,5,5,Yes,Jackets,SKU0049,S,In Stock,Facebook Ads,69
+CUST00050,3,Hyderabad,New,ORD000050,2023-06-01,500.0,Net Banking,2,10,No,Dresses,SKU0050,XL,In Stock,Email Marketing,42
+CUST00051,37,Mumbai,Returning,ORD000051,2023-08-01,2396.47,Wallet,6,0,No,Shirts,SKU0051,S,In Stock,Facebook Ads,3
+CUST00052,51,Kolkata,Returning,ORD000052,2023-09-14,2218.63,COD,8,0,No,T-Shirts,SKU0052,L,In Stock,Google Ads,55
+CUST00053,7,Mumbai,New,ORD000053,2023-09-11,2687.73,UPI,4,0,No,Sweatshirts,SKU0053,S,In Stock,Facebook Ads,92
+CUST00054,21,Jaipur,Returning,ORD000054,2023-08-16,2844.47,Net Banking,2,0,Yes,Jeans,SKU0054,M,In Stock,Instagram,58
+CUST00055,9,Pune,New,ORD000055,2023-10-12,1051.57,COD,5,20,No,Shirts,SKU0055,S,In Stock,Facebook Ads,88
+CUST00056,39,Hyderabad,Returning,ORD000056,2023-03-05,1219.88,Wallet,2,10,No,Dresses,SKU0056,XL,In Stock,Email Marketing,8
+CUST00057,18,Kolkata,Returning,ORD000057,2023-10-26,2568.39,Credit Card,2,15,No,T-Shirts,SKU0057,XXL,In Stock,Word of Mouth,2
+CUST00058,4,Pune,New,ORD000058,2023-11-09,1553.51,Wallet,6,0,No,T-Shirts,SKU0058,S,In Stock,Facebook Ads,89
+CUST00059,25,Delhi,Returning,ORD000059,2023-11-26,3861.24,UPI,9,0,No,Jackets,SKU0059,S,In Stock,Facebook Ads,47
+CUST00060,60,Bangalore,Returning,ORD000060,2023-02-17,2553.84,Net Banking,4,20,Yes,Shirts,SKU0060,L,In Stock,Facebook Ads,42
+CUST00061,14,Mumbai,Returning,ORD000061,2023-03-21,5297.5,Net Banking,6,50,No,Dresses,SKU0061,XL,In Stock,Email Marketing,90
+CUST00062,50,Chennai,Returning,ORD000062,2023-09-13,3730.72,UPI,7,0,Yes,T-Shirts,SKU0062,XXL,In Stock,Facebook Ads,99
+CUST00063,58,Chennai,Returning,ORD000063,2023-02-18,4155.57,COD,6,30,No,Jeans,SKU0063,M,In Stock,Email Marketing,95
+CUST00064,9,Hyderabad,New,ORD000064,2023-06-03,2698.85,COD,8,15,No,T-Shirts,SKU0064,S,In Stock,Email Marketing,0
+CUST00065,26,Delhi,Returning,ORD000065,2023-08-28,2736.04,Net Banking,4,15,No,Dresses,SKU0065,XXL,In Stock,Word of Mouth,56
+CUST00066,53,Jaipur,Returning,ORD000066,2023-05-28,5096.98,Net Banking,1,15,No,Sweatshirts,SKU0066,M,In Stock,Instagram,52
+CUST00067,2,Mumbai,New,ORD000067,2023-05-25,1932.56,Credit Card,7,0,No,Sweatshirts,SKU0067,XL,In Stock,Email Marketing,15
+CUST00068,20,Delhi,Returning,ORD000068,2023-09-29,3320.17,COD,3,0,No,Jackets,SKU0068,XL,In Stock,Google Ads,50
+CUST00069,28,Mumbai,Returning,ORD000069,2023-06-22,2100.64,UPI,6,20,No,Shirts,SKU0069,XXL,In Stock,Facebook Ads,74
+CUST00070,47,Hyderabad,Returning,ORD000070,2023-03-25,2097.05,COD,2,5,No,Dresses,SKU0070,M,In Stock,Google Ads,89
+CUST00071,60,Hyderabad,Returning,ORD000071,2023-08-25,746.66,Credit Card,9,40,No,Jackets,SKU0071,XL,Out of Stock,Facebook Ads,54
+CUST00072,7,Jaipur,New,ORD000072,2023-01-25,1386.23,Net Banking,1,10,No,T-Shirts,SKU0072,XXL,In Stock,Word of Mouth,0
+CUST00073,44,Chennai,Returning,ORD000073,2023-11-13,1107.6,Net Banking,6,0,No,T-Shirts,SKU0073,XL,In Stock,Email Marketing,89
+CUST00074,8,Delhi,New,ORD000074,2023-07-09,3391.55,Credit Card,6,25,No,Sweatshirts,SKU0074,XL,In Stock,Instagram,27
+CUST00075,47,Kolkata,Returning,ORD000075,2023-09-18,4060.31,UPI,5,0,No,Jackets,SKU0075,XL,In Stock,Email Marketing,52
+CUST00076,35,Chennai,Returning,ORD000076,2023-11-26,2357.87,Net Banking,5,15,No,Sweatshirts,SKU0076,L,In Stock,Facebook Ads,57
+CUST00077,14,Delhi,Returning,ORD000077,2023-09-21,2844.44,Wallet,1,20,Yes,Jeans,SKU0077,M,Out of Stock,Instagram,72
+CUST00078,17,Chennai,Returning,ORD000078,2023-05-03,2271.29,Net Banking,5,40,No,Sweatshirts,SKU0078,XXL,In Stock,Email Marketing,59
+CUST00079,36,Kolkata,Returning,ORD000079,2023-01-08,1283.84,Wallet,2,25,No,Jeans,SKU0079,XXL,In Stock,Instagram,58
+CUST00080,50,Bangalore,Returning,ORD000080,2023-09-30,3793.39,Credit Card,7,20,No,T-Shirts,SKU0080,M,In Stock,Facebook Ads,21
+CUST00081,40,Bangalore,Returning,ORD000081,2023-07-20,3478.8,Credit Card,3,20,No,Jackets,SKU0081,M,In Stock,Word of Mouth,7
+CUST00082,4,Jaipur,New,ORD000082,2023-09-04,500.0,Net Banking,4,40,No,Jeans,SKU0082,M,In Stock,Word of Mouth,48
+CUST00083,2,Bangalore,New,ORD000083,2023-03-21,2075.34,COD,3,0,No,Jackets,SKU0083,M,In Stock,Email Marketing,41
+CUST00084,6,Bangalore,New,ORD000084,2023-05-24,1176.96,Wallet,3,0,No,Jackets,SKU0084,S,In Stock,Google Ads,26
+CUST00085,54,Pune,Returning,ORD000085,2023-08-17,1913.59,UPI,4,0,No,Jeans,SKU0085,XXL,In Stock,Facebook Ads,38
+CUST00086,42,Mumbai,Returning,ORD000086,2023-06-02,1494.35,Net Banking,5,0,No,Shirts,SKU0086,S,In Stock,Email Marketing,82
+CUST00087,4,Pune,New,ORD000087,2023-12-13,2430.37,UPI,1,20,Yes,Sweatshirts,SKU0087,XL,In Stock,Email Marketing,24
+CUST00088,54,Pune,Returning,ORD000088,2023-08-30,2005.13,Net Banking,4,20,Yes,Jeans,SKU0088,XL,In Stock,Word of Mouth,37
+CUST00089,29,Jaipur,Returning,ORD000089,2023-07-28,1973.29,COD,8,15,No,T-Shirts,SKU0089,XXL,In Stock,Instagram,84
+CUST00090,18,Pune,Returning,ORD000090,2023-02-21,4161.08,COD,7,0,No,Jackets,SKU0090,XL,In Stock,Facebook Ads,23
+CUST00091,26,Bangalore,Returning,ORD000091,2023-05-19,3335.77,COD,9,25,No,Dresses,SKU0091,M,Out of Stock,Instagram,23
+CUST00092,44,Kolkata,Returning,ORD000092,2023-08-25,1444.16,COD,5,5,Yes,Jeans,SKU0092,S,In Stock,Facebook Ads,59
+CUST00093,34,Jaipur,Returning,ORD000093,2023-11-29,1666.68,Credit Card,4,20,No,Sweatshirts,SKU0093,M,In Stock,Google Ads,82
+CUST00094,10,Jaipur,New,ORD000094,2023-12-06,3237.69,Credit Card,8,15,No,Jackets,SKU0094,XL,Out of Stock,Word of Mouth,49
+CUST00095,36,Hyderabad,Returning,ORD000095,2023-12-21,3235.63,Wallet,9,5,No,Shirts,SKU0095,S,In Stock,Google Ads,65
+CUST00096,14,Jaipur,Returning,ORD000096,2023-11-10,1594.33,UPI,7,0,Yes,T-Shirts,SKU0096,M,In Stock,Email Marketing,13
+CUST00097,31,Hyderabad,Returning,ORD000097,2023-11-22,2149.01,Net Banking,7,0,No,Shirts,SKU0097,XXL,In Stock,Word of Mouth,52
+CUST00098,48,Jaipur,Returning,ORD000098,2023-01-27,5270.21,Net Banking,5,30,No,Dresses,SKU0098,M,In Stock,Email Marketing,31
+CUST00099,15,Mumbai,Returning,ORD000099,2023-02-28,1620.18,Credit Card,4,40,No,Jeans,SKU0099,XL,In Stock,Google Ads,95
+CUST00100,8,Bangalore,New,ORD000100,2023-01-16,5366.21,Net Banking,1,20,No,Jackets,SKU0100,S,In Stock,Facebook Ads,91
+CUST00101,14,Jaipur,Returning,ORD000101,2023-08-21,4155.5,Credit Card,7,0,No,Jeans,SKU0101,XXL,In Stock,Email Marketing,47
+CUST00102,23,Bangalore,Returning,ORD000102,2023-03-18,5088.12,Wallet,1,10,No,Sweatshirts,SKU0102,S,In Stock,Instagram,38
+CUST00103,60,Bangalore,Returning,ORD000103,2023-11-23,1556.39,UPI,1,25,No,Jeans,SKU0103,XXL,In Stock,Facebook Ads,39
+CUST00104,57,Chennai,Returning,ORD000104,2023-10-10,2247.17,Wallet,5,25,Yes,T-Shirts,SKU0104,S,Out of Stock,Facebook Ads,41
+CUST00105,40,Jaipur,Returning,ORD000105,2023-08-24,1826.25,COD,9,0,No,Dresses,SKU0105,XL,In Stock,Google Ads,76
+CUST00106,21,Delhi,Returning,ORD000106,2023-03-04,4190.13,COD,6,0,No,Shirts,SKU0106,XXL,In Stock,Google Ads,75
+CUST00107,16,Chennai,Returning,ORD000107,2023-11-25,1648.47,COD,3,25,No,Dresses,SKU0107,L,In Stock,Word of Mouth,7
+CUST00108,45,Delhi,Returning,ORD000108,2023-08-31,3596.82,Wallet,3,5,No,Jackets,SKU0108,S,In Stock,Word of Mouth,78
+CUST00109,18,Bangalore,Returning,ORD000109,2023-04-07,3517.45,Net Banking,7,0,No,Jeans,SKU0109,S,In Stock,Instagram,25
+CUST00110,47,Bangalore,Returning,ORD000110,2023-09-24,2427.96,UPI,6,0,No,Jackets,SKU0110,M,In Stock,Facebook Ads,11
+CUST00111,53,Chennai,Returning,ORD000111,2023-10-12,4447.99,COD,9,15,Yes,Shirts,SKU0111,XXL,In Stock,Instagram,42
+CUST00112,24,Chennai,Returning,ORD000112,2023-10-22,2661.52,COD,6,30,No,Jackets,SKU0112,L,In Stock,Instagram,50
+CUST00113,26,Delhi,Returning,ORD000113,2023-08-20,3751.13,COD,5,50,No,Sweatshirts,SKU0113,XL,In Stock,Google Ads,90
+CUST00114,25,Hyderabad,Returning,ORD000114,2023-05-12,1757.94,UPI,7,15,No,Dresses,SKU0114,M,In Stock,Instagram,81
+CUST00115,60,Delhi,Returning,ORD000115,2023-06-14,1414.84,COD,1,15,No,Shirts,SKU0115,L,In Stock,Instagram,99
+CUST00116,60,Chennai,Returning,ORD000116,2023-10-19,3596.72,UPI,7,0,Yes,Shirts,SKU0116,XXL,In Stock,Email Marketing,62
+CUST00117,60,Kolkata,Returning,ORD000117,2023-11-03,3146.26,COD,3,15,No,Shirts,SKU0117,L,In Stock,Word of Mouth,48
+CUST00118,45,Chennai,Returning,ORD000118,2023-09-26,2864.96,Wallet,9,5,No,T-Shirts,SKU0118,S,Out of Stock,Word of Mouth,26
+CUST00119,41,Kolkata,Returning,ORD000119,2023-02-27,1984.47,Wallet,6,20,Yes,Dresses,SKU0119,S,Out of Stock,Facebook Ads,8
+CUST00120,29,Mumbai,Returning,ORD000120,2023-07-22,4823.81,UPI,9,5,No,Jackets,SKU0120,M,In Stock,Word of Mouth,38
+CUST00121,15,Chennai,Returning,ORD000121,2023-03-12,825.12,Wallet,5,0,No,Shirts,SKU0121,XXL,In Stock,Facebook Ads,64
+CUST00122,45,Mumbai,Returning,ORD000122,2023-05-30,742.99,UPI,7,0,Yes,Dresses,SKU0122,XXL,In Stock,Email Marketing,70
+CUST00123,1,Hyderabad,New,ORD000123,2023-03-13,3913.25,Wallet,4,5,No,Shirts,SKU0123,L,In Stock,Word of Mouth,89
+CUST00124,25,Delhi,Returning,ORD000124,2023-12-20,3790.14,Wallet,7,0,No,Sweatshirts,SKU0124,M,In Stock,Email Marketing,70
+CUST00125,7,Kolkata,New,ORD000125,2023-04-06,3030.64,UPI,1,0,No,Sweatshirts,SKU0125,XXL,In Stock,Word of Mouth,6
+CUST00126,9,Delhi,New,ORD000126,2023-06-01,2068.07,Net Banking,7,50,No,Sweatshirts,SKU0126,S,In Stock,Word of Mouth,71
+CUST00127,24,Mumbai,Returning,ORD000127,2023-07-24,3253.63,Wallet,8,10,Yes,Jeans,SKU0127,L,In Stock,Email Marketing,79
+CUST00128,1,Kolkata,New,ORD000128,2023-03-07,5081.25,COD,5,15,Yes,Shirts,SKU0128,XL,In Stock,Instagram,66
+CUST00129,44,Delhi,Returning,ORD000129,2023-03-17,6273.32,Net Banking,2,30,No,Jeans,SKU0129,S,In Stock,Instagram,9
+CUST00130,8,Chennai,New,ORD000130,2023-12-20,500.0,UPI,5,50,No,Dresses,SKU0130,M,In Stock,Instagram,70
+CUST00131,24,Bangalore,Returning,ORD000131,2023-07-31,1871.62,Net Banking,6,15,No,Jeans,SKU0131,XXL,In Stock,Instagram,84
+CUST00132,11,Mumbai,New,ORD000132,2023-07-19,1777.34,Credit Card,2,30,Yes,Dresses,SKU0132,S,In Stock,Word of Mouth,52
+CUST00133,51,Delhi,Returning,ORD000133,2023-08-14,4939.78,Credit Card,6,5,No,Dresses,SKU0133,XL,In Stock,Google Ads,100
+CUST00134,17,Mumbai,Returning,ORD000134,2023-06-12,500.0,Wallet,6,5,No,Dresses,SKU0134,XL,In Stock,Email Marketing,94
+CUST00135,8,Pune,New,ORD000135,2023-05-08,3270.75,Wallet,1,10,No,Jackets,SKU0135,M,In Stock,Google Ads,86
+CUST00136,35,Mumbai,Returning,ORD000136,2023-06-24,2114.78,COD,1,20,No,Jeans,SKU0136,S,Out of Stock,Google Ads,56
+CUST00137,35,Kolkata,Returning,ORD000137,2023-08-15,4957.17,Net Banking,3,20,Yes,Jackets,SKU0137,L,In Stock,Facebook Ads,90
+CUST00138,33,Pune,Returning,ORD000138,2023-08-13,4751.56,Credit Card,3,5,No,Shirts,SKU0138,S,In Stock,Instagram,85
+CUST00139,59,Jaipur,Returning,ORD000139,2023-07-15,3048.26,Wallet,4,0,No,Jeans,SKU0139,XL,In Stock,Word of Mouth,26
+CUST00140,5,Kolkata,New,ORD000140,2023-08-09,500.0,Net Banking,2,20,No,Shirts,SKU0140,M,In Stock,Instagram,53
+CUST00141,42,Bangalore,Returning,ORD000141,2023-05-23,1639.17,Wallet,9,0,No,Shirts,SKU0141,M,Out of Stock,Instagram,3
+CUST00142,39,Pune,Returning,ORD000142,2023-06-19,1803.41,Wallet,7,15,No,Dresses,SKU0142,L,In Stock,Google Ads,87
+CUST00143,58,Jaipur,Returning,ORD000143,2023-02-18,510.32,Credit Card,7,20,No,Jeans,SKU0143,M,In Stock,Facebook Ads,22
+CUST00144,41,Chennai,Returning,ORD000144,2023-11-24,4231.88,Credit Card,6,25,No,Shirts,SKU0144,M,In Stock,Instagram,47
+CUST00145,28,Mumbai,Returning,ORD000145,2023-08-09,500.0,Wallet,3,25,No,Sweatshirts,SKU0145,M,In Stock,Email Marketing,82
+CUST00146,7,Delhi,New,ORD000146,2023-11-18,5447.99,UPI,6,30,No,Shirts,SKU0146,M,In Stock,Email Marketing,41
+CUST00147,9,Hyderabad,New,ORD000147,2023-06-06,5444.23,Wallet,8,10,No,Sweatshirts,SKU0147,M,In Stock,Instagram,2
+CUST00148,8,Mumbai,New,ORD000148,2023-10-27,1922.41,Wallet,8,25,No,Jeans,SKU0148,XL,In Stock,Google Ads,90
+CUST00149,12,Jaipur,New,ORD000149,2023-07-20,2992.74,COD,9,20,No,Jackets,SKU0149,S,In Stock,Google Ads,2
+CUST00150,34,Mumbai,Returning,ORD000150,2023-03-07,2391.57,COD,1,0,No,Jeans,SKU0150,XXL,In Stock,Word of Mouth,27
+CUST00151,33,Bangalore,Returning,ORD000151,2023-09-18,3852.74,COD,1,0,No,Jackets,SKU0151,M,In Stock,Facebook Ads,62
+CUST00152,48,Chennai,Returning,ORD000152,2023-04-20,4412.02,UPI,3,0,Yes,Jackets,SKU0152,XXL,In Stock,Google Ads,80
+CUST00153,55,Hyderabad,Returning,ORD000153,2023-04-21,2887.0,UPI,3,10,No,Jeans,SKU0153,XXL,In Stock,Word of Mouth,30
+CUST00154,23,Pune,Returning,ORD000154,2023-09-03,3203.68,Wallet,8,20,No,Shirts,SKU0154,XL,In Stock,Email Marketing,9
+CUST00155,24,Pune,Returning,ORD000155,2023-09-11,1569.09,COD,1,30,No,T-Shirts,SKU0155,M,In Stock,Email Marketing,48
+CUST00156,37,Pune,Returning,ORD000156,2023-09-07,3155.07,UPI,2,0,No,Shirts,SKU0156,XXL,In Stock,Email Marketing,85
+CUST00157,35,Jaipur,Returning,ORD000157,2023-03-15,2744.14,Credit Card,2,0,No,Shirts,SKU0157,M,In Stock,Instagram,93
+CUST00158,44,Kolkata,Returning,ORD000158,2023-12-01,1132.31,Wallet,3,50,No,Dresses,SKU0158,L,In Stock,Facebook Ads,20
+CUST00159,40,Kolkata,Returning,ORD000159,2023-01-07,2478.94,Net Banking,6,0,No,Dresses,SKU0159,L,In Stock,Word of Mouth,99
+CUST00160,22,Delhi,Returning,ORD000160,2023-08-17,1925.23,Wallet,1,10,No,Shirts,SKU0160,L,In Stock,Facebook Ads,52
+CUST00161,27,Hyderabad,Returning,ORD000161,2023-02-24,1585.76,Net Banking,2,15,No,Sweatshirts,SKU0161,XXL,In Stock,Instagram,86
+CUST00162,35,Pune,Returning,ORD000162,2023-09-12,780.26,COD,1,15,No,Jackets,SKU0162,L,In Stock,Word of Mouth,75
+CUST00163,1,Kolkata,New,ORD000163,2023-10-02,2593.75,Net Banking,5,0,No,Dresses,SKU0163,XL,In Stock,Word of Mouth,88
+CUST00164,35,Jaipur,Returning,ORD000164,2023-05-04,1329.29,COD,7,0,Yes,Shirts,SKU0164,XL,In Stock,Google Ads,53
+CUST00165,37,Delhi,Returning,ORD000165,2023-11-20,1793.34,Credit Card,8,0,No,T-Shirts,SKU0165,XXL,In Stock,Facebook Ads,56
+CUST00166,47,Chennai,Returning,ORD000166,2023-06-27,4112.69,Net Banking,1,15,No,Sweatshirts,SKU0166,M,In Stock,Facebook Ads,19
+CUST00167,14,Delhi,Returning,ORD000167,2023-08-19,3448.17,Wallet,7,15,No,Jeans,SKU0167,S,In Stock,Google Ads,48
+CUST00168,3,Kolkata,New,ORD000168,2023-05-31,1031.85,COD,5,0,No,Shirts,SKU0168,M,In Stock,Email Marketing,6
+CUST00169,1,Bangalore,New,ORD000169,2023-04-15,3027.84,Wallet,1,20,No,Shirts,SKU0169,M,In Stock,Instagram,28
+CUST00170,5,Jaipur,New,ORD000170,2023-05-07,2699.17,UPI,3,30,No,Jackets,SKU0170,M,In Stock,Facebook Ads,47
+CUST00171,26,Bangalore,Returning,ORD000171,2023-01-02,5052.54,COD,7,0,No,Sweatshirts,SKU0171,M,In Stock,Google Ads,92
+CUST00172,55,Pune,Returning,ORD000172,2023-10-31,4574.72,Net Banking,1,10,No,Dresses,SKU0172,S,In Stock,Word of Mouth,12
+CUST00173,14,Bangalore,Returning,ORD000173,2023-10-28,500.0,COD,7,20,No,Dresses,SKU0173,L,Out of Stock,Google Ads,2
+CUST00174,39,Pune,Returning,ORD000174,2023-06-11,3791.69,Wallet,5,0,Yes,Dresses,SKU0174,M,Out of Stock,Email Marketing,1
+CUST00175,27,Pune,Returning,ORD000175,2023-06-05,4397.8,Credit Card,1,5,No,Jeans,SKU0175,XL,In Stock,Instagram,15
+CUST00176,9,Kolkata,New,ORD000176,2023-01-10,3339.04,COD,1,20,No,Sweatshirts,SKU0176,XXL,Out of Stock,Email Marketing,93
+CUST00177,15,Bangalore,Returning,ORD000177,2023-09-11,1996.88,Net Banking,1,30,Yes,Sweatshirts,SKU0177,XXL,In Stock,Word of Mouth,5
+CUST00178,15,Pune,Returning,ORD000178,2023-05-24,6120.09,UPI,9,30,No,Dresses,SKU0178,XL,In Stock,Word of Mouth,44
+CUST00179,26,Hyderabad,Returning,ORD000179,2023-09-06,3477.11,Credit Card,3,15,No,Dresses,SKU0179,M,In Stock,Word of Mouth,70
+CUST00180,42,Chennai,Returning,ORD000180,2023-04-07,5464.82,UPI,5,25,Yes,Jackets,SKU0180,S,Out of Stock,Word of Mouth,4
+CUST00181,60,Delhi,Returning,ORD000181,2023-12-24,4527.22,COD,9,5,No,T-Shirts,SKU0181,L,In Stock,Google Ads,55
+CUST00182,13,Delhi,Returning,ORD000182,2023-10-11,3196.2,Wallet,6,20,No,T-Shirts,SKU0182,XXL,In Stock,Word of Mouth,70
+CUST00183,51,Kolkata,Returning,ORD000183,2023-03-06,1630.45,Wallet,9,10,Yes,Shirts,SKU0183,L,In Stock,Word of Mouth,97
+CUST00184,32,Bangalore,Returning,ORD000184,2023-05-30,2463.84,Net Banking,8,0,No,Shirts,SKU0184,S,In Stock,Google Ads,31
+CUST00185,39,Bangalore,Returning,ORD000185,2023-07-19,2167.13,Wallet,8,25,No,Sweatshirts,SKU0185,XXL,In Stock,Word of Mouth,48
+CUST00186,49,Pune,Returning,ORD000186,2023-06-09,678.22,Credit Card,1,15,No,Sweatshirts,SKU0186,L,In Stock,Email Marketing,12
+CUST00187,52,Jaipur,Returning,ORD000187,2023-10-29,3475.42,Wallet,9,5,No,Jeans,SKU0187,S,In Stock,Email Marketing,29
+CUST00188,32,Mumbai,Returning,ORD000188,2023-10-10,4851.03,Net Banking,6,40,No,Jeans,SKU0188,L,In Stock,Facebook Ads,24
+CUST00189,4,Pune,New,ORD000189,2023-10-05,2052.54,COD,9,0,No,T-Shirts,SKU0189,M,In Stock,Email Marketing,84
+CUST00190,30,Chennai,Returning,ORD000190,2023-03-20,5745.48,COD,3,5,Yes,Shirts,SKU0190,S,In Stock,Instagram,59
+CUST00191,37,Hyderabad,Returning,ORD000191,2023-06-15,500.0,Wallet,3,0,No,T-Shirts,SKU0191,L,In Stock,Instagram,58
+CUST00192,23,Delhi,Returning,ORD000192,2023-02-17,4081.55,UPI,6,25,No,T-Shirts,SKU0192,M,In Stock,Instagram,84
+CUST00193,39,Pune,Returning,ORD000193,2023-12-29,5007.28,COD,9,25,Yes,Shirts,SKU0193,M,In Stock,Google Ads,27
+CUST00194,45,Mumbai,Returning,ORD000194,2023-06-30,2193.95,Wallet,7,5,No,Jeans,SKU0194,S,In Stock,Email Marketing,57
+CUST00195,15,Mumbai,Returning,ORD000195,2023-01-17,2220.92,Net Banking,3,20,No,Jackets,SKU0195,XL,In Stock,Instagram,19
+CUST00196,43,Pune,Returning,ORD000196,2023-12-07,4064.15,Wallet,3,5,No,Jackets,SKU0196,XXL,In Stock,Facebook Ads,33
+CUST00197,29,Kolkata,Returning,ORD000197,2023-03-17,3258.99,COD,2,25,No,Jackets,SKU0197,S,In Stock,Google Ads,4
+CUST00198,36,Delhi,Returning,ORD000198,2023-12-10,500.0,Net Banking,9,10,No,Shirts,SKU0198,M,In Stock,Facebook Ads,81
+CUST00199,13,Kolkata,Returning,ORD000199,2023-05-14,1234.94,Wallet,3,10,No,Dresses,SKU0199,M,In Stock,Email Marketing,59
+CUST00200,32,Hyderabad,Returning,ORD000200,2023-10-29,2479.68,Credit Card,5,40,No,Dresses,SKU0200,S,In Stock,Word of Mouth,42
+CUST00201,7,Mumbai,New,ORD000201,2023-09-05,500.0,Net Banking,9,0,No,Dresses,SKU0201,XL,In Stock,Facebook Ads,56
+CUST00202,59,Mumbai,Returning,ORD000202,2023-04-30,1788.74,Credit Card,8,0,No,Sweatshirts,SKU0202,XXL,In Stock,Word of Mouth,56
+CUST00203,51,Chennai,Returning,ORD000203,2023-10-17,500.0,UPI,2,15,No,Jeans,SKU0203,L,In Stock,Google Ads,74
+CUST00204,22,Hyderabad,Returning,ORD000204,2023-09-05,1944.74,Net Banking,3,50,No,Jeans,SKU0204,S,In Stock,Facebook Ads,53
+CUST00205,28,Mumbai,Returning,ORD000205,2023-05-05,1995.07,Credit Card,2,5,No,Sweatshirts,SKU0205,XXL,In Stock,Facebook Ads,80
+CUST00206,2,Hyderabad,New,ORD000206,2023-04-03,3027.63,COD,8,0,No,T-Shirts,SKU0206,XXL,In Stock,Google Ads,44
+CUST00207,42,Delhi,Returning,ORD000207,2023-04-27,2362.36,COD,6,5,No,Jackets,SKU0207,M,In Stock,Google Ads,85
+CUST00208,45,Bangalore,Returning,ORD000208,2023-06-18,3254.18,UPI,6,15,Yes,Dresses,SKU0208,L,In Stock,Instagram,36
+CUST00209,57,Mumbai,Returning,ORD000209,2023-03-19,3075.32,Net Banking,9,0,No,Jackets,SKU0209,S,In Stock,Email Marketing,83
+CUST00210,53,Chennai,Returning,ORD000210,2023-06-07,4047.01,Net Banking,8,20,No,Dresses,SKU0210,M,In Stock,Facebook Ads,47
+CUST00211,6,Delhi,New,ORD000211,2023-01-02,3810.67,Net Banking,4,50,Yes,Jackets,SKU0211,M,In Stock,Facebook Ads,53
+CUST00212,28,Pune,Returning,ORD000212,2023-12-16,3652.19,UPI,4,10,No,T-Shirts,SKU0212,XL,In Stock,Google Ads,47
+CUST00213,28,Hyderabad,Returning,ORD000213,2023-08-10,7157.3,Net Banking,9,5,No,Jackets,SKU0213,XXL,In Stock,Google Ads,5
+CUST00214,44,Pune,Returning,ORD000214,2023-09-02,3021.1,COD,1,10,No,Jackets,SKU0214,S,In Stock,Email Marketing,33
+CUST00215,44,Kolkata,Returning,ORD000215,2023-10-13,6390.36,Credit Card,2,0,No,Shirts,SKU0215,S,In Stock,Google Ads,62
+CUST00216,20,Delhi,Returning,ORD000216,2023-02-25,3118.33,COD,2,30,No,Jackets,SKU0216,S,In Stock,Word of Mouth,77
+CUST00217,30,Pune,Returning,ORD000217,2023-08-25,2375.72,COD,6,10,No,Shirts,SKU0217,M,In Stock,Word of Mouth,47
+CUST00218,11,Jaipur,New,ORD000218,2023-08-09,1940.25,Credit Card,4,5,Yes,Jeans,SKU0218,XL,In Stock,Word of Mouth,22
+CUST00219,58,Jaipur,Returning,ORD000219,2023-01-04,4764.59,COD,3,20,No,Sweatshirts,SKU0219,L,In Stock,Word of Mouth,83
+CUST00220,55,Mumbai,Returning,ORD000220,2023-06-16,4960.76,UPI,3,10,No,Jackets,SKU0220,M,In Stock,Email Marketing,12
+CUST00221,28,Hyderabad,Returning,ORD000221,2023-04-14,3399.68,Credit Card,3,20,No,Jeans,SKU0221,L,In Stock,Facebook Ads,46
+CUST00222,25,Bangalore,Returning,ORD000222,2023-03-27,4200.32,COD,6,0,No,Shirts,SKU0222,XL,In Stock,Word of Mouth,43
+CUST00223,39,Delhi,Returning,ORD000223,2023-06-02,584.17,Wallet,8,30,No,Jackets,SKU0223,XXL,In Stock,Google Ads,31
+CUST00224,33,Mumbai,Returning,ORD000224,2023-05-23,500.0,COD,7,40,No,Jackets,SKU0224,S,In Stock,Word of Mouth,25
+CUST00225,1,Chennai,New,ORD000225,2023-07-13,4369.49,UPI,4,20,Yes,T-Shirts,SKU0225,L,Out of Stock,Email Marketing,52
+CUST00226,57,Kolkata,Returning,ORD000226,2023-01-11,2309.78,Net Banking,4,50,Yes,Jeans,SKU0226,M,In Stock,Google Ads,13
+CUST00227,27,Hyderabad,Returning,ORD000227,2023-02-18,3623.95,COD,2,0,No,Dresses,SKU0227,L,In Stock,Word of Mouth,51
+CUST00228,57,Delhi,Returning,ORD000228,2023-06-04,1424.07,Net Banking,1,10,No,Dresses,SKU0228,XXL,In Stock,Facebook Ads,35
+CUST00229,52,Jaipur,Returning,ORD000229,2023-03-01,4985.48,Wallet,9,20,No,T-Shirts,SKU0229,S,In Stock,Google Ads,7
+CUST00230,13,Delhi,Returning,ORD000230,2023-01-13,500.0,COD,2,15,No,Shirts,SKU0230,L,In Stock,Google Ads,39
+CUST00231,41,Bangalore,Returning,ORD000231,2023-03-05,500.0,Credit Card,8,10,Yes,Dresses,SKU0231,XXL,In Stock,Facebook Ads,85
+CUST00232,3,Jaipur,New,ORD000232,2023-11-24,4666.47,Net Banking,9,5,No,Dresses,SKU0232,M,Out of Stock,Google Ads,21
+CUST00233,39,Bangalore,Returning,ORD000233,2023-05-11,500.0,Wallet,4,0,No,Sweatshirts,SKU0233,XL,In Stock,Word of Mouth,15
+CUST00234,6,Chennai,New,ORD000234,2023-02-13,3067.85,Credit Card,8,5,No,Jeans,SKU0234,M,In Stock,Google Ads,90
+CUST00235,8,Kolkata,New,ORD000235,2023-09-15,2339.01,Credit Card,9,0,No,Shirts,SKU0235,S,In Stock,Word of Mouth,59
+CUST00236,27,Chennai,Returning,ORD000236,2023-09-13,1396.07,Credit Card,5,25,No,Jackets,SKU0236,M,In Stock,Facebook Ads,59
+CUST00237,9,Mumbai,New,ORD000237,2023-09-17,2200.09,Credit Card,7,0,Yes,Jeans,SKU0237,M,In Stock,Instagram,9
+CUST00238,37,Mumbai,Returning,ORD000238,2023-08-30,1228.71,COD,4,0,No,Shirts,SKU0238,M,In Stock,Facebook Ads,24
+CUST00239,33,Chennai,Returning,ORD000239,2023-11-04,4813.38,COD,1,15,No,Dresses,SKU0239,M,In Stock,Word of Mouth,30
+CUST00240,51,Kolkata,Returning,ORD000240,2023-08-26,5206.75,COD,3,15,No,Sweatshirts,SKU0240,S,In Stock,Email Marketing,20
+CUST00241,42,Chennai,Returning,ORD000241,2023-06-09,1471.39,Wallet,5,30,No,Jeans,SKU0241,XXL,In Stock,Facebook Ads,90
+CUST00242,44,Kolkata,Returning,ORD000242,2023-05-26,2913.29,Wallet,3,15,Yes,Dresses,SKU0242,L,In Stock,Email Marketing,80
+CUST00243,24,Kolkata,Returning,ORD000243,2023-01-02,512.39,Wallet,7,5,Yes,Shirts,SKU0243,XL,In Stock,Email Marketing,32
+CUST00244,15,Pune,Returning,ORD000244,2023-12-15,4109.58,UPI,9,30,No,Jeans,SKU0244,L,Out of Stock,Word of Mouth,30
+CUST00245,59,Jaipur,Returning,ORD000245,2023-09-27,4070.51,Wallet,6,15,No,Jackets,SKU0245,L,In Stock,Word of Mouth,89
+CUST00246,54,Hyderabad,Returning,ORD000246,2023-10-11,2057.11,COD,1,0,Yes,Jeans,SKU0246,XL,In Stock,Instagram,20
+CUST00247,32,Kolkata,Returning,ORD000247,2023-03-11,2525.33,COD,7,15,Yes,Dresses,SKU0247,S,In Stock,Google Ads,35
+CUST00248,32,Bangalore,Returning,ORD000248,2023-03-23,2359.35,UPI,3,40,Yes,Jeans,SKU0248,XL,In Stock,Facebook Ads,64
+CUST00249,24,Kolkata,Returning,ORD000249,2023-07-04,500.0,UPI,5,5,No,Jackets,SKU0249,S,Out of Stock,Word of Mouth,3
+CUST00250,41,Kolkata,Returning,ORD000250,2023-10-30,4819.01,Wallet,4,0,Yes,Sweatshirts,SKU0250,L,In Stock,Facebook Ads,67
+CUST00251,52,Kolkata,Returning,ORD000251,2023-08-23,1349.57,Net Banking,5,0,No,Sweatshirts,SKU0251,S,In Stock,Email Marketing,89
+CUST00252,49,Pune,Returning,ORD000252,2023-09-06,1359.78,UPI,5,0,No,Dresses,SKU0252,XXL,In Stock,Google Ads,3
+CUST00253,49,Jaipur,Returning,ORD000253,2023-05-07,2274.37,Credit Card,6,10,No,Shirts,SKU0253,XL,In Stock,Instagram,8
+CUST00254,58,Pune,Returning,ORD000254,2023-10-01,3993.32,COD,6,15,Yes,Dresses,SKU0254,XXL,In Stock,Facebook Ads,29
+CUST00255,52,Mumbai,Returning,ORD000255,2023-08-07,1613.05,Credit Card,8,0,No,Sweatshirts,SKU0255,L,In Stock,Google Ads,44
+CUST00256,12,Pune,New,ORD000256,2023-11-08,500.0,COD,8,40,Yes,T-Shirts,SKU0256,XL,In Stock,Instagram,3
+CUST00257,39,Bangalore,Returning,ORD000257,2023-03-24,1169.5,COD,9,25,No,T-Shirts,SKU0257,L,Out of Stock,Facebook Ads,68
+CUST00258,2,Bangalore,New,ORD000258,2023-02-04,3136.21,UPI,8,15,No,Jeans,SKU0258,XXL,In Stock,Google Ads,22
+CUST00259,3,Pune,New,ORD000259,2023-10-23,5784.63,UPI,2,30,No,Jackets,SKU0259,L,In Stock,Word of Mouth,15
+CUST00260,49,Jaipur,Returning,ORD000260,2023-04-06,610.12,Credit Card,1,0,No,Jeans,SKU0260,XL,In Stock,Facebook Ads,21
+CUST00261,37,Chennai,Returning,ORD000261,2023-08-11,555.25,COD,2,10,No,T-Shirts,SKU0261,XL,In Stock,Google Ads,100
+CUST00262,49,Hyderabad,Returning,ORD000262,2023-02-06,500.0,Credit Card,2,20,No,Sweatshirts,SKU0262,L,In Stock,Instagram,71
+CUST00263,56,Jaipur,Returning,ORD000263,2023-01-05,500.0,Net Banking,3,30,No,Jeans,SKU0263,XL,Out of Stock,Google Ads,47
+CUST00264,17,Pune,Returning,ORD000264,2023-08-05,4308.54,Credit Card,7,25,No,Dresses,SKU0264,XL,In Stock,Word of Mouth,61
+CUST00265,59,Kolkata,Returning,ORD000265,2023-10-28,4742.03,Wallet,2,0,No,Jackets,SKU0265,L,Out of Stock,Facebook Ads,96
+CUST00266,49,Delhi,Returning,ORD000266,2023-07-08,2766.63,Credit Card,1,40,No,Dresses,SKU0266,XXL,In Stock,Facebook Ads,59
+CUST00267,2,Hyderabad,New,ORD000267,2023-05-09,1798.43,Wallet,6,0,No,Jackets,SKU0267,XL,In Stock,Facebook Ads,79
+CUST00268,2,Hyderabad,New,ORD000268,2023-05-31,5186.72,Wallet,9,30,No,Sweatshirts,SKU0268,XL,In Stock,Word of Mouth,4
+CUST00269,28,Bangalore,Returning,ORD000269,2023-03-27,2760.86,Wallet,3,50,No,Jeans,SKU0269,XL,In Stock,Instagram,79
+CUST00270,54,Hyderabad,Returning,ORD000270,2023-03-14,4134.16,Net Banking,6,0,No,Jackets,SKU0270,XL,In Stock,Facebook Ads,6
+CUST00271,23,Pune,Returning,ORD000271,2023-06-19,1725.33,Credit Card,3,25,No,Dresses,SKU0271,L,In Stock,Instagram,50
+CUST00272,37,Kolkata,Returning,ORD000272,2023-01-01,2566.37,Credit Card,1,0,No,Jeans,SKU0272,XXL,In Stock,Google Ads,64
+CUST00273,32,Kolkata,Returning,ORD000273,2023-12-15,643.99,Net Banking,5,10,Yes,Jeans,SKU0273,XXL,In Stock,Instagram,8
+CUST00274,33,Mumbai,Returning,ORD000274,2023-12-13,3443.87,COD,4,15,No,Dresses,SKU0274,S,Out of Stock,Instagram,81
+CUST00275,1,Kolkata,New,ORD000275,2023-12-05,2786.41,UPI,7,15,No,T-Shirts,SKU0275,XL,In Stock,Facebook Ads,44
+CUST00276,19,Jaipur,Returning,ORD000276,2023-05-12,1158.16,Credit Card,6,40,No,Jackets,SKU0276,XL,In Stock,Email Marketing,46
+CUST00277,2,Kolkata,New,ORD000277,2023-05-13,1178.34,UPI,7,20,No,Dresses,SKU0277,S,In Stock,Email Marketing,66
+CUST00278,53,Bangalore,Returning,ORD000278,2023-10-04,4923.94,Net Banking,5,10,No,Sweatshirts,SKU0278,XXL,In Stock,Word of Mouth,23
+CUST00279,44,Kolkata,Returning,ORD000279,2023-08-02,5457.5,COD,4,30,Yes,Shirts,SKU0279,M,In Stock,Word of Mouth,91
+CUST00280,26,Mumbai,Returning,ORD000280,2023-03-10,2180.3,COD,7,50,No,Dresses,SKU0280,M,Out of Stock,Email Marketing,9
+CUST00281,32,Delhi,Returning,ORD000281,2023-11-30,2601.63,COD,7,0,Yes,Jeans,SKU0281,XXL,In Stock,Google Ads,72
+CUST00282,6,Pune,New,ORD000282,2023-07-06,3100.17,Net Banking,6,50,Yes,Jeans,SKU0282,XL,In Stock,Facebook Ads,76
+CUST00283,32,Bangalore,Returning,ORD000283,2023-11-16,2722.05,Wallet,8,0,No,Dresses,SKU0283,M,In Stock,Facebook Ads,47
+CUST00284,55,Jaipur,Returning,ORD000284,2023-07-05,500.0,Wallet,4,30,No,Shirts,SKU0284,L,In Stock,Google Ads,34
+CUST00285,4,Delhi,New,ORD000285,2023-07-20,3141.81,UPI,5,0,No,Dresses,SKU0285,L,In Stock,Google Ads,53
+CUST00286,55,Bangalore,Returning,ORD000286,2023-07-14,500.0,Wallet,4,0,No,Shirts,SKU0286,S,In Stock,Email Marketing,86
+CUST00287,11,Chennai,New,ORD000287,2023-05-03,1400.97,Wallet,1,10,Yes,Shirts,SKU0287,XXL,In Stock,Word of Mouth,80
+CUST00288,56,Hyderabad,Returning,ORD000288,2023-10-24,3258.14,COD,8,20,No,Sweatshirts,SKU0288,XXL,In Stock,Google Ads,70
+CUST00289,59,Chennai,Returning,ORD000289,2023-06-13,3399.99,COD,1,5,No,Jackets,SKU0289,M,In Stock,Word of Mouth,15
+CUST00290,17,Kolkata,Returning,ORD000290,2023-01-07,1284.89,UPI,5,0,No,Jeans,SKU0290,XL,In Stock,Instagram,52
+CUST00291,38,Delhi,Returning,ORD000291,2023-09-15,1812.34,Credit Card,6,15,No,Jeans,SKU0291,XXL,In Stock,Facebook Ads,39
+CUST00292,24,Kolkata,Returning,ORD000292,2023-03-09,1609.25,UPI,6,40,No,Shirts,SKU0292,M,Out of Stock,Email Marketing,99
+CUST00293,5,Hyderabad,New,ORD000293,2023-05-29,2345.73,UPI,5,5,No,Jeans,SKU0293,M,In Stock,Facebook Ads,19
+CUST00294,52,Bangalore,Returning,ORD000294,2023-04-05,2459.81,Net Banking,3,0,Yes,T-Shirts,SKU0294,XXL,Out of Stock,Email Marketing,87
+CUST00295,34,Hyderabad,Returning,ORD000295,2023-04-23,3502.7,Net Banking,5,10,No,Shirts,SKU0295,M,In Stock,Instagram,68
+CUST00296,6,Mumbai,New,ORD000296,2023-11-30,1724.65,UPI,8,0,No,Jeans,SKU0296,S,In Stock,Facebook Ads,44
+CUST00297,22,Hyderabad,Returning,ORD000297,2023-10-06,3060.09,UPI,2,30,Yes,T-Shirts,SKU0297,S,In Stock,Instagram,5
+CUST00298,11,Mumbai,New,ORD000298,2023-09-23,3260.52,UPI,6,30,Yes,Sweatshirts,SKU0298,XXL,In Stock,Email Marketing,91
+CUST00299,48,Hyderabad,Returning,ORD000299,2023-10-03,2797.43,Wallet,9,15,No,Jeans,SKU0299,XL,In Stock,Google Ads,68
+CUST00300,16,Pune,Returning,ORD000300,2023-02-06,2110.59,Net Banking,8,5,No,T-Shirts,SKU0300,S,In Stock,Facebook Ads,48
+CUST00301,33,Mumbai,Returning,ORD000301,2023-12-08,2770.97,UPI,8,25,Yes,Dresses,SKU0301,S,In Stock,Instagram,38
+CUST00302,9,Delhi,New,ORD000302,2023-05-15,3627.61,COD,8,15,No,Jackets,SKU0302,XXL,In Stock,Facebook Ads,1
+CUST00303,60,Kolkata,Returning,ORD000303,2023-01-23,3758.78,COD,7,30,No,Dresses,SKU0303,L,In Stock,Facebook Ads,38
+CUST00304,59,Jaipur,Returning,ORD000304,2023-07-26,5223.06,Wallet,8,20,No,T-Shirts,SKU0304,M,In Stock,Facebook Ads,20
+CUST00305,6,Kolkata,New,ORD000305,2023-11-20,1014.96,Wallet,6,25,No,Shirts,SKU0305,S,In Stock,Word of Mouth,39
+CUST00306,16,Chennai,Returning,ORD000306,2023-09-12,1839.99,Credit Card,2,15,No,Shirts,SKU0306,L,Out of Stock,Instagram,100
+CUST00307,29,Kolkata,Returning,ORD000307,2023-03-10,500.0,Credit Card,2,10,No,Jeans,SKU0307,XL,In Stock,Instagram,81
+CUST00308,3,Bangalore,New,ORD000308,2023-07-21,3896.51,Credit Card,8,50,No,Dresses,SKU0308,L,In Stock,Facebook Ads,53
+CUST00309,20,Pune,Returning,ORD000309,2023-04-06,1998.24,Wallet,1,15,No,Shirts,SKU0309,XXL,In Stock,Google Ads,11
+CUST00310,60,Hyderabad,Returning,ORD000310,2023-12-22,2809.29,Wallet,6,20,No,Shirts,SKU0310,XL,In Stock,Facebook Ads,80
+CUST00311,59,Chennai,Returning,ORD000311,2023-12-12,1593.49,Wallet,6,0,Yes,Dresses,SKU0311,XL,In Stock,Word of Mouth,36
+CUST00312,36,Bangalore,Returning,ORD000312,2023-09-03,2009.94,COD,4,20,No,Sweatshirts,SKU0312,L,In Stock,Email Marketing,37
+CUST00313,19,Bangalore,Returning,ORD000313,2023-04-14,4334.79,Wallet,3,15,No,Shirts,SKU0313,XXL,In Stock,Word of Mouth,14
+CUST00314,26,Mumbai,Returning,ORD000314,2023-03-29,3541.35,COD,3,0,No,Jackets,SKU0314,S,In Stock,Google Ads,6
+CUST00315,3,Kolkata,New,ORD000315,2023-09-25,2332.72,Credit Card,1,0,No,T-Shirts,SKU0315,L,In Stock,Facebook Ads,77
+CUST00316,19,Delhi,Returning,ORD000316,2023-12-21,3651.72,Credit Card,3,20,No,Jeans,SKU0316,S,In Stock,Instagram,49
+CUST00317,20,Jaipur,Returning,ORD000317,2023-12-25,3684.85,Credit Card,4,25,No,Shirts,SKU0317,L,In Stock,Facebook Ads,64
+CUST00318,32,Delhi,Returning,ORD000318,2023-01-14,1912.86,UPI,5,15,No,Jackets,SKU0318,S,In Stock,Google Ads,66
+CUST00319,7,Chennai,New,ORD000319,2023-02-09,500.0,UPI,3,0,No,Jackets,SKU0319,L,In Stock,Instagram,100
+CUST00320,52,Pune,Returning,ORD000320,2023-03-04,1151.26,Net Banking,6,20,No,Shirts,SKU0320,XL,In Stock,Word of Mouth,43
+CUST00321,41,Delhi,Returning,ORD000321,2023-05-11,500.0,Net Banking,5,0,No,Sweatshirts,SKU0321,M,Out of Stock,Email Marketing,30
+CUST00322,33,Hyderabad,Returning,ORD000322,2023-08-26,4246.65,Net Banking,3,10,No,T-Shirts,SKU0322,XL,In Stock,Email Marketing,42
+CUST00323,40,Delhi,Returning,ORD000323,2023-06-14,4507.17,UPI,6,0,No,Jeans,SKU0323,S,In Stock,Facebook Ads,76
+CUST00324,39,Chennai,Returning,ORD000324,2023-01-30,4879.56,UPI,6,0,Yes,Shirts,SKU0324,XXL,In Stock,Word of Mouth,47
+CUST00325,18,Jaipur,Returning,ORD000325,2023-04-16,500.0,Net Banking,8,0,No,Jeans,SKU0325,XL,In Stock,Google Ads,81
+CUST00326,40,Delhi,Returning,ORD000326,2023-01-09,4107.1,Net Banking,2,5,No,Dresses,SKU0326,M,Out of Stock,Email Marketing,80
+CUST00327,1,Hyderabad,New,ORD000327,2023-11-15,5818.29,Wallet,1,0,No,Jackets,SKU0327,S,In Stock,Word of Mouth,80
+CUST00328,11,Mumbai,New,ORD000328,2023-02-26,4167.98,Net Banking,4,5,No,Jackets,SKU0328,XL,In Stock,Facebook Ads,60
+CUST00329,28,Pune,Returning,ORD000329,2023-02-15,500.0,Wallet,7,15,No,Shirts,SKU0329,L,In Stock,Instagram,74
+CUST00330,57,Chennai,Returning,ORD000330,2023-03-22,5152.45,COD,3,10,No,Shirts,SKU0330,XXL,In Stock,Facebook Ads,83
+CUST00331,25,Mumbai,Returning,ORD000331,2023-03-05,2562.53,UPI,3,5,No,Dresses,SKU0331,S,In Stock,Facebook Ads,9
+CUST00332,50,Mumbai,Returning,ORD000332,2023-12-22,2151.4,Net Banking,5,30,No,Sweatshirts,SKU0332,XL,In Stock,Word of Mouth,28
+CUST00333,23,Mumbai,Returning,ORD000333,2023-04-22,3176.64,UPI,5,0,No,Shirts,SKU0333,S,In Stock,Email Marketing,47
+CUST00334,31,Bangalore,Returning,ORD000334,2023-07-24,926.49,UPI,3,15,No,Jackets,SKU0334,L,In Stock,Word of Mouth,97
+CUST00335,30,Pune,Returning,ORD000335,2023-04-15,2504.17,UPI,9,0,No,Jeans,SKU0335,M,In Stock,Instagram,80
+CUST00336,42,Jaipur,Returning,ORD000336,2023-05-14,4930.64,COD,4,0,No,T-Shirts,SKU0336,XL,In Stock,Word of Mouth,61
+CUST00337,35,Kolkata,Returning,ORD000337,2023-01-18,3433.6,Credit Card,3,15,No,Jeans,SKU0337,S,Out of Stock,Google Ads,12
+CUST00338,7,Pune,New,ORD000338,2023-01-10,2587.6,Net Banking,2,15,Yes,Sweatshirts,SKU0338,S,In Stock,Facebook Ads,43
+CUST00339,60,Bangalore,Returning,ORD000339,2023-04-02,2634.41,Credit Card,9,30,No,T-Shirts,SKU0339,S,In Stock,Email Marketing,46
+CUST00340,16,Kolkata,Returning,ORD000340,2023-12-18,727.91,Credit Card,4,15,No,Jeans,SKU0340,M,In Stock,Instagram,63
+CUST00341,26,Pune,Returning,ORD000341,2023-06-09,2275.02,Credit Card,3,50,No,Jeans,SKU0341,S,In Stock,Facebook Ads,90
+CUST00342,48,Mumbai,Returning,ORD000342,2023-11-21,500.0,UPI,7,0,No,Dresses,SKU0342,XXL,In Stock,Word of Mouth,52
+CUST00343,57,Chennai,Returning,ORD000343,2023-03-14,4033.66,Wallet,8,0,No,Sweatshirts,SKU0343,XXL,In Stock,Google Ads,89
+CUST00344,52,Kolkata,Returning,ORD000344,2023-09-28,500.0,UPI,2,0,No,Jackets,SKU0344,S,In Stock,Word of Mouth,91
+CUST00345,60,Hyderabad,Returning,ORD000345,2023-02-06,3782.35,UPI,7,0,Yes,Dresses,SKU0345,XXL,In Stock,Facebook Ads,76
+CUST00346,49,Hyderabad,Returning,ORD000346,2023-05-06,3969.12,Credit Card,5,15,No,T-Shirts,SKU0346,XL,In Stock,Instagram,75
+CUST00347,2,Delhi,New,ORD000347,2023-08-11,4478.15,UPI,5,20,No,Jackets,SKU0347,XXL,In Stock,Email Marketing,43
+CUST00348,1,Kolkata,New,ORD000348,2023-01-21,2630.29,Credit Card,3,0,No,Dresses,SKU0348,S,In Stock,Facebook Ads,27
+CUST00349,48,Chennai,Returning,ORD000349,2023-08-04,3874.94,Wallet,5,40,No,Sweatshirts,SKU0349,L,Out of Stock,Instagram,1
+CUST00350,12,Jaipur,New,ORD000350,2023-05-27,2260.38,Net Banking,2,30,No,Shirts,SKU0350,XL,In Stock,Facebook Ads,100
+CUST00351,5,Bangalore,New,ORD000351,2023-03-21,719.95,Credit Card,4,0,Yes,Shirts,SKU0351,M,In Stock,Google Ads,56
+CUST00352,37,Mumbai,Returning,ORD000352,2023-09-02,4796.1,Wallet,6,0,No,T-Shirts,SKU0352,S,In Stock,Word of Mouth,56
+CUST00353,32,Delhi,Returning,ORD000353,2023-10-15,2354.67,Net Banking,1,0,No,Shirts,SKU0353,M,In Stock,Email Marketing,33
+CUST00354,59,Hyderabad,Returning,ORD000354,2023-04-07,500.0,COD,4,0,No,Dresses,SKU0354,L,In Stock,Instagram,86
+CUST00355,55,Bangalore,Returning,ORD000355,2023-11-22,1799.78,Credit Card,6,0,No,T-Shirts,SKU0355,M,In Stock,Email Marketing,57
+CUST00356,9,Bangalore,New,ORD000356,2023-11-27,1859.01,Credit Card,9,15,No,Jackets,SKU0356,S,In Stock,Email Marketing,51
+CUST00357,41,Mumbai,Returning,ORD000357,2023-01-26,3192.55,COD,2,0,No,Sweatshirts,SKU0357,S,In Stock,Email Marketing,28
+CUST00358,35,Jaipur,Returning,ORD000358,2023-06-04,6020.57,COD,7,5,No,T-Shirts,SKU0358,L,In Stock,Instagram,34
+CUST00359,19,Jaipur,Returning,ORD000359,2023-03-23,3283.63,Credit Card,6,50,No,Jackets,SKU0359,S,In Stock,Instagram,74
+CUST00360,48,Kolkata,Returning,ORD000360,2023-07-03,2810.27,COD,2,20,No,T-Shirts,SKU0360,L,In Stock,Email Marketing,47
+CUST00361,16,Hyderabad,Returning,ORD000361,2023-06-23,6183.66,UPI,8,40,No,Jeans,SKU0361,L,In Stock,Word of Mouth,32
+CUST00362,3,Jaipur,New,ORD000362,2023-02-19,3968.34,Net Banking,7,0,No,Jeans,SKU0362,S,In Stock,Facebook Ads,74
+CUST00363,20,Chennai,Returning,ORD000363,2023-11-14,2881.37,Net Banking,5,5,No,T-Shirts,SKU0363,XXL,In Stock,Email Marketing,72
+CUST00364,24,Jaipur,Returning,ORD000364,2023-10-02,1780.88,Net Banking,5,15,No,Shirts,SKU0364,L,In Stock,Google Ads,77
+CUST00365,54,Bangalore,Returning,ORD000365,2023-02-27,2974.3,UPI,7,0,No,Jeans,SKU0365,S,In Stock,Email Marketing,8
+CUST00366,56,Mumbai,Returning,ORD000366,2023-09-29,2400.41,COD,9,0,No,Sweatshirts,SKU0366,XXL,In Stock,Instagram,47
+CUST00367,33,Chennai,Returning,ORD000367,2023-11-08,2637.15,Wallet,9,20,No,Jackets,SKU0367,L,In Stock,Facebook Ads,66
+CUST00368,24,Kolkata,Returning,ORD000368,2023-05-21,4471.6,COD,9,20,Yes,Dresses,SKU0368,XXL,Out of Stock,Google Ads,92
+CUST00369,52,Hyderabad,Returning,ORD000369,2023-03-06,1689.52,Credit Card,6,10,Yes,Jeans,SKU0369,XL,In Stock,Facebook Ads,82
+CUST00370,11,Kolkata,New,ORD000370,2023-06-19,3270.31,Net Banking,6,10,No,T-Shirts,SKU0370,XL,In Stock,Facebook Ads,35
+CUST00371,49,Bangalore,Returning,ORD000371,2023-02-07,3923.41,COD,3,10,No,Shirts,SKU0371,XXL,In Stock,Google Ads,95
+CUST00372,8,Chennai,New,ORD000372,2023-06-03,1506.83,Wallet,1,0,No,Dresses,SKU0372,L,In Stock,Email Marketing,70
+CUST00373,36,Chennai,Returning,ORD000373,2023-03-03,1266.07,Credit Card,7,5,No,Jackets,SKU0373,S,In Stock,Email Marketing,91
+CUST00374,38,Chennai,Returning,ORD000374,2023-12-19,2274.49,UPI,4,0,No,Jackets,SKU0374,M,In Stock,Email Marketing,43
+CUST00375,40,Bangalore,Returning,ORD000375,2023-05-05,1807.56,UPI,1,0,Yes,Jeans,SKU0375,S,In Stock,Word of Mouth,81
+CUST00376,20,Bangalore,Returning,ORD000376,2023-04-19,4228.5,Wallet,8,50,No,Jackets,SKU0376,M,In Stock,Email Marketing,59
+CUST00377,35,Kolkata,Returning,ORD000377,2023-11-17,997.35,Credit Card,6,15,No,Jackets,SKU0377,M,In Stock,Google Ads,62
+CUST00378,48,Delhi,Returning,ORD000378,2023-12-05,2602.71,Net Banking,6,25,No,Shirts,SKU0378,L,In Stock,Word of Mouth,4
+CUST00379,25,Kolkata,Returning,ORD000379,2023-03-16,6319.07,COD,2,5,No,Shirts,SKU0379,XXL,In Stock,Email Marketing,86
+CUST00380,35,Hyderabad,Returning,ORD000380,2023-01-24,3119.58,Credit Card,1,5,No,Shirts,SKU0380,S,In Stock,Word of Mouth,85
+CUST00381,25,Mumbai,Returning,ORD000381,2023-06-23,3368.94,UPI,2,0,No,T-Shirts,SKU0381,XXL,In Stock,Google Ads,89
+CUST00382,29,Chennai,Returning,ORD000382,2023-04-04,4241.02,Wallet,4,0,No,Jackets,SKU0382,XL,In Stock,Email Marketing,75
+CUST00383,18,Delhi,Returning,ORD000383,2023-09-30,1805.58,Wallet,2,0,No,Jackets,SKU0383,L,In Stock,Instagram,39
+CUST00384,46,Mumbai,Returning,ORD000384,2023-08-18,877.87,COD,1,25,No,Jackets,SKU0384,L,In Stock,Google Ads,18
+CUST00385,18,Delhi,Returning,ORD000385,2023-04-18,2764.77,Wallet,7,20,No,Sweatshirts,SKU0385,XL,In Stock,Facebook Ads,46
+CUST00386,2,Jaipur,New,ORD000386,2023-02-16,2898.11,Wallet,8,15,Yes,Shirts,SKU0386,S,In Stock,Facebook Ads,64
+CUST00387,54,Jaipur,Returning,ORD000387,2023-11-15,500.0,Credit Card,6,10,No,Dresses,SKU0387,XL,In Stock,Google Ads,66
+CUST00388,35,Pune,Returning,ORD000388,2023-12-09,3062.61,Net Banking,4,40,Yes,Jeans,SKU0388,S,Out of Stock,Facebook Ads,90
+CUST00389,16,Jaipur,Returning,ORD000389,2023-01-07,4104.78,COD,6,0,No,Dresses,SKU0389,M,In Stock,Google Ads,17
+CUST00390,41,Kolkata,Returning,ORD000390,2023-12-27,1130.58,Credit Card,3,0,No,T-Shirts,SKU0390,L,In Stock,Instagram,49
+CUST00391,36,Jaipur,Returning,ORD000391,2023-05-03,3153.33,Net Banking,8,5,No,T-Shirts,SKU0391,S,In Stock,Google Ads,29
+CUST00392,33,Bangalore,Returning,ORD000392,2023-01-26,3838.4,Credit Card,2,25,No,Jackets,SKU0392,XXL,In Stock,Email Marketing,65
+CUST00393,4,Chennai,New,ORD000393,2023-07-12,3380.02,Credit Card,5,50,Yes,Dresses,SKU0393,XXL,In Stock,Email Marketing,4
+CUST00394,33,Kolkata,Returning,ORD000394,2023-08-03,3521.51,Wallet,1,0,No,Jackets,SKU0394,L,In Stock,Word of Mouth,92
+CUST00395,14,Mumbai,Returning,ORD000395,2023-04-08,2132.8,Net Banking,6,30,No,Sweatshirts,SKU0395,XL,In Stock,Facebook Ads,96
+CUST00396,21,Pune,Returning,ORD000396,2023-01-01,808.74,COD,2,30,No,T-Shirts,SKU0396,XL,In Stock,Facebook Ads,41
+CUST00397,48,Pune,Returning,ORD000397,2023-09-03,1829.28,COD,4,0,Yes,T-Shirts,SKU0397,S,Out of Stock,Google Ads,83
+CUST00398,20,Pune,Returning,ORD000398,2023-02-21,1620.91,Net Banking,6,5,No,Dresses,SKU0398,XL,In Stock,Facebook Ads,93
+CUST00399,56,Mumbai,Returning,ORD000399,2023-02-26,2379.61,Wallet,8,10,Yes,T-Shirts,SKU0399,L,In Stock,Email Marketing,4
+CUST00400,8,Mumbai,New,ORD000400,2023-07-21,4139.91,UPI,8,50,Yes,Sweatshirts,SKU0400,S,In Stock,Instagram,49
+CUST00401,7,Mumbai,New,ORD000401,2023-01-31,532.24,Credit Card,6,0,No,Sweatshirts,SKU0401,M,In Stock,Google Ads,84
+CUST00402,3,Mumbai,New,ORD000402,2023-10-09,2716.38,Wallet,4,25,No,Sweatshirts,SKU0402,XL,In Stock,Facebook Ads,57
+CUST00403,17,Pune,Returning,ORD000403,2023-06-06,904.9,Net Banking,8,5,No,Jeans,SKU0403,XL,In Stock,Email Marketing,78
+CUST00404,33,Pune,Returning,ORD000404,2023-05-07,1389.93,Credit Card,8,25,Yes,Sweatshirts,SKU0404,S,In Stock,Word of Mouth,83
+CUST00405,48,Delhi,Returning,ORD000405,2023-08-07,3338.11,COD,1,10,No,Sweatshirts,SKU0405,XXL,In Stock,Facebook Ads,7
+CUST00406,12,Kolkata,New,ORD000406,2023-04-22,715.08,UPI,4,15,No,Jeans,SKU0406,XL,In Stock,Instagram,30
+CUST00407,59,Chennai,Returning,ORD000407,2023-02-14,3601.37,COD,4,30,No,Jackets,SKU0407,L,In Stock,Instagram,11
+CUST00408,51,Jaipur,Returning,ORD000408,2023-11-26,500.0,Net Banking,7,30,No,Shirts,SKU0408,XL,In Stock,Facebook Ads,20
+CUST00409,22,Jaipur,Returning,ORD000409,2023-02-11,3500.47,Credit Card,7,30,No,T-Shirts,SKU0409,M,In Stock,Facebook Ads,93
+CUST00410,55,Bangalore,Returning,ORD000410,2023-05-10,500.0,Net Banking,8,0,No,Sweatshirts,SKU0410,XL,In Stock,Email Marketing,61
+CUST00411,22,Pune,Returning,ORD000411,2023-11-18,1573.28,Credit Card,5,20,No,T-Shirts,SKU0411,XXL,In Stock,Facebook Ads,90
+CUST00412,46,Bangalore,Returning,ORD000412,2023-06-23,5344.74,Wallet,7,0,No,Dresses,SKU0412,XL,In Stock,Word of Mouth,89
+CUST00413,30,Kolkata,Returning,ORD000413,2023-06-13,5062.82,UPI,8,10,No,T-Shirts,SKU0413,S,In Stock,Email Marketing,32
+CUST00414,38,Kolkata,Returning,ORD000414,2023-09-23,1881.21,Wallet,9,15,No,Jackets,SKU0414,XL,In Stock,Google Ads,25
+CUST00415,38,Bangalore,Returning,ORD000415,2023-10-26,3084.94,Wallet,3,10,No,Jeans,SKU0415,XXL,In Stock,Word of Mouth,89
+CUST00416,45,Pune,Returning,ORD000416,2023-11-22,4306.1,Net Banking,3,15,No,T-Shirts,SKU0416,S,In Stock,Email Marketing,99
+CUST00417,51,Bangalore,Returning,ORD000417,2023-09-10,3521.94,UPI,4,50,Yes,T-Shirts,SKU0417,L,In Stock,Email Marketing,39
+CUST00418,54,Jaipur,Returning,ORD000418,2023-05-24,2089.8,Credit Card,5,0,No,T-Shirts,SKU0418,S,In Stock,Instagram,64
+CUST00419,8,Delhi,New,ORD000419,2023-06-28,1377.05,Credit Card,1,20,No,Shirts,SKU0419,M,In Stock,Email Marketing,58
+CUST00420,27,Jaipur,Returning,ORD000420,2023-12-29,3802.15,COD,7,5,No,Shirts,SKU0420,S,In Stock,Word of Mouth,14
+CUST00421,27,Hyderabad,Returning,ORD000421,2023-08-28,4196.05,Credit Card,9,0,No,Dresses,SKU0421,L,In Stock,Facebook Ads,0
+CUST00422,34,Pune,Returning,ORD000422,2023-10-17,5073.55,Net Banking,8,0,No,Jeans,SKU0422,XL,Out of Stock,Word of Mouth,10
+CUST00423,21,Pune,Returning,ORD000423,2023-09-01,500.0,Wallet,5,40,No,T-Shirts,SKU0423,S,In Stock,Google Ads,54
+CUST00424,30,Chennai,Returning,ORD000424,2023-03-23,620.31,Wallet,4,30,No,T-Shirts,SKU0424,S,In Stock,Email Marketing,1
+CUST00425,33,Mumbai,Returning,ORD000425,2023-12-24,4242.89,Wallet,7,40,No,T-Shirts,SKU0425,S,In Stock,Email Marketing,64
+CUST00426,28,Hyderabad,Returning,ORD000426,2023-11-19,500.0,UPI,5,50,No,T-Shirts,SKU0426,S,In Stock,Email Marketing,94
+CUST00427,47,Kolkata,Returning,ORD000427,2023-08-18,4357.82,Credit Card,7,0,Yes,Shirts,SKU0427,L,In Stock,Email Marketing,43
+CUST00428,33,Pune,Returning,ORD000428,2023-02-11,2177.6,Net Banking,1,5,No,Jackets,SKU0428,XXL,In Stock,Instagram,15
+CUST00429,5,Bangalore,New,ORD000429,2023-10-11,1718.63,UPI,1,20,Yes,Jackets,SKU0429,XXL,In Stock,Instagram,21
+CUST00430,60,Hyderabad,Returning,ORD000430,2023-01-21,2808.14,COD,3,10,No,Dresses,SKU0430,S,In Stock,Facebook Ads,17
+CUST00431,48,Chennai,Returning,ORD000431,2023-02-04,500.0,Net Banking,2,10,No,Sweatshirts,SKU0431,L,In Stock,Email Marketing,46
+CUST00432,19,Kolkata,Returning,ORD000432,2023-10-15,3736.02,Net Banking,2,5,No,Jeans,SKU0432,L,In Stock,Google Ads,80
+CUST00433,4,Mumbai,New,ORD000433,2023-06-20,5034.46,Net Banking,7,15,No,Jackets,SKU0433,S,Out of Stock,Facebook Ads,29
+CUST00434,35,Mumbai,Returning,ORD000434,2023-09-01,3805.86,Wallet,2,15,No,T-Shirts,SKU0434,M,In Stock,Email Marketing,9
+CUST00435,49,Chennai,Returning,ORD000435,2023-02-10,2130.24,Net Banking,4,0,No,Jackets,SKU0435,S,In Stock,Instagram,98
+CUST00436,17,Chennai,Returning,ORD000436,2023-03-14,500.0,Credit Card,2,10,No,Dresses,SKU0436,M,In Stock,Google Ads,57
+CUST00437,44,Bangalore,Returning,ORD000437,2023-09-08,500.0,Net Banking,6,15,No,Sweatshirts,SKU0437,S,In Stock,Facebook Ads,61
+CUST00438,28,Pune,Returning,ORD000438,2023-04-12,505.54,Wallet,8,15,No,Jackets,SKU0438,M,Out of Stock,Google Ads,84
+CUST00439,30,Mumbai,Returning,ORD000439,2023-10-13,2481.58,Net Banking,4,0,No,Dresses,SKU0439,M,In Stock,Email Marketing,79
+CUST00440,29,Kolkata,Returning,ORD000440,2023-10-25,2670.1,COD,5,25,No,Shirts,SKU0440,S,In Stock,Word of Mouth,5
+CUST00441,46,Hyderabad,Returning,ORD000441,2023-07-22,3802.67,COD,4,0,No,Sweatshirts,SKU0441,M,In Stock,Google Ads,66
+CUST00442,53,Kolkata,Returning,ORD000442,2023-02-03,500.0,Wallet,3,5,No,Dresses,SKU0442,XL,In Stock,Google Ads,40
+CUST00443,6,Delhi,New,ORD000443,2023-08-08,4466.82,Credit Card,5,25,No,Jackets,SKU0443,XXL,In Stock,Instagram,42
+CUST00444,35,Delhi,Returning,ORD000444,2023-02-22,3541.61,Credit Card,9,15,No,Shirts,SKU0444,L,In Stock,Email Marketing,84
+CUST00445,60,Chennai,Returning,ORD000445,2023-11-04,2009.75,UPI,8,0,Yes,Dresses,SKU0445,M,Out of Stock,Google Ads,76
+CUST00446,41,Bangalore,Returning,ORD000446,2023-12-05,715.36,Wallet,8,20,No,Dresses,SKU0446,M,Out of Stock,Email Marketing,17
+CUST00447,37,Delhi,Returning,ORD000447,2023-06-20,4373.71,Net Banking,8,15,No,Jackets,SKU0447,L,Out of Stock,Instagram,57
+CUST00448,24,Mumbai,Returning,ORD000448,2023-11-11,2049.86,Wallet,8,25,No,Sweatshirts,SKU0448,M,In Stock,Email Marketing,59
+CUST00449,29,Kolkata,Returning,ORD000449,2023-04-21,2469.97,UPI,7,25,No,Shirts,SKU0449,L,In Stock,Instagram,87
+CUST00450,49,Kolkata,Returning,ORD000450,2023-12-10,3075.42,Wallet,8,20,No,T-Shirts,SKU0450,S,In Stock,Instagram,26
+CUST00451,46,Chennai,Returning,ORD000451,2023-11-30,1130.2,Wallet,8,10,No,Jeans,SKU0451,XL,In Stock,Facebook Ads,67
+CUST00452,53,Pune,Returning,ORD000452,2023-01-15,2076.73,UPI,8,0,No,Sweatshirts,SKU0452,XL,In Stock,Email Marketing,21
+CUST00453,31,Pune,Returning,ORD000453,2023-11-09,3797.98,Credit Card,7,0,No,Shirts,SKU0453,XXL,In Stock,Word of Mouth,23
+CUST00454,35,Hyderabad,Returning,ORD000454,2023-12-06,3646.14,Net Banking,1,10,No,Dresses,SKU0454,M,In Stock,Facebook Ads,39
+CUST00455,60,Chennai,Returning,ORD000455,2023-01-22,3659.66,UPI,4,15,No,Shirts,SKU0455,XXL,In Stock,Instagram,73
+CUST00456,33,Jaipur,Returning,ORD000456,2023-07-06,767.23,COD,4,15,Yes,Jeans,SKU0456,S,Out of Stock,Word of Mouth,65
+CUST00457,52,Hyderabad,Returning,ORD000457,2023-12-17,2145.13,Credit Card,5,0,No,Jackets,SKU0457,XL,In Stock,Google Ads,39
+CUST00458,21,Jaipur,Returning,ORD000458,2023-08-10,1905.41,COD,6,0,No,Jeans,SKU0458,S,Out of Stock,Google Ads,5
+CUST00459,32,Pune,Returning,ORD000459,2023-03-27,3137.77,Credit Card,4,10,No,T-Shirts,SKU0459,S,In Stock,Facebook Ads,17
+CUST00460,23,Chennai,Returning,ORD000460,2023-01-17,3003.49,Net Banking,2,0,Yes,T-Shirts,SKU0460,M,In Stock,Word of Mouth,80
+CUST00461,33,Jaipur,Returning,ORD000461,2023-09-09,2733.14,Net Banking,6,25,No,Jeans,SKU0461,S,In Stock,Email Marketing,86
+CUST00462,3,Chennai,New,ORD000462,2023-07-27,6198.6,Wallet,8,0,No,Sweatshirts,SKU0462,XL,In Stock,Word of Mouth,29
+CUST00463,18,Chennai,Returning,ORD000463,2023-07-17,2063.79,COD,8,15,No,Sweatshirts,SKU0463,XXL,Out of Stock,Facebook Ads,20
+CUST00464,25,Pune,Returning,ORD000464,2023-01-29,1888.27,Credit Card,7,40,No,Dresses,SKU0464,XL,In Stock,Email Marketing,61
+CUST00465,42,Hyderabad,Returning,ORD000465,2023-04-18,764.88,Net Banking,6,0,Yes,T-Shirts,SKU0465,M,In Stock,Email Marketing,9
+CUST00466,31,Hyderabad,Returning,ORD000466,2023-12-24,500.0,UPI,2,10,No,Dresses,SKU0466,XL,In Stock,Google Ads,12
+CUST00467,54,Chennai,Returning,ORD000467,2023-07-30,669.52,Net Banking,7,0,No,T-Shirts,SKU0467,L,In Stock,Word of Mouth,75
+CUST00468,58,Delhi,Returning,ORD000468,2023-02-24,1421.98,UPI,5,20,No,Jeans,SKU0468,XXL,In Stock,Email Marketing,8
+CUST00469,3,Bangalore,New,ORD000469,2023-11-20,4465.11,Credit Card,6,15,Yes,Sweatshirts,SKU0469,L,Out of Stock,Facebook Ads,67
+CUST00470,40,Pune,Returning,ORD000470,2023-02-12,2558.75,Net Banking,8,10,No,Sweatshirts,SKU0470,L,In Stock,Google Ads,38
+CUST00471,46,Bangalore,Returning,ORD000471,2023-08-29,2790.0,Net Banking,8,15,No,Jeans,SKU0471,M,In Stock,Email Marketing,23
+CUST00472,24,Bangalore,Returning,ORD000472,2023-08-10,2355.59,Credit Card,3,30,No,Dresses,SKU0472,S,In Stock,Word of Mouth,33
+CUST00473,50,Hyderabad,Returning,ORD000473,2023-04-22,3047.95,Net Banking,7,0,Yes,Dresses,SKU0473,L,In Stock,Google Ads,60
+CUST00474,32,Hyderabad,Returning,ORD000474,2023-11-28,4603.11,UPI,1,0,No,Shirts,SKU0474,XL,In Stock,Word of Mouth,40
+CUST00475,47,Delhi,Returning,ORD000475,2023-06-17,500.0,Net Banking,1,30,No,T-Shirts,SKU0475,S,Out of Stock,Word of Mouth,4
+CUST00476,22,Bangalore,Returning,ORD000476,2023-09-19,4327.51,COD,7,15,No,Dresses,SKU0476,XL,In Stock,Word of Mouth,78
+CUST00477,23,Bangalore,Returning,ORD000477,2023-09-19,500.0,Wallet,9,30,No,Jeans,SKU0477,XL,In Stock,Google Ads,49
+CUST00478,2,Chennai,New,ORD000478,2023-11-03,2542.3,UPI,7,15,No,Dresses,SKU0478,S,In Stock,Email Marketing,3
+CUST00479,27,Hyderabad,Returning,ORD000479,2023-07-25,5787.86,COD,5,30,No,Sweatshirts,SKU0479,S,In Stock,Instagram,50
+CUST00480,42,Bangalore,Returning,ORD000480,2023-01-31,3520.99,Credit Card,8,10,Yes,T-Shirts,SKU0480,XL,In Stock,Email Marketing,51
+CUST00481,2,Kolkata,New,ORD000481,2023-12-30,3059.59,UPI,2,25,No,Jackets,SKU0481,M,In Stock,Google Ads,38
+CUST00482,26,Delhi,Returning,ORD000482,2023-01-12,5502.92,Wallet,9,40,Yes,Shirts,SKU0482,XXL,In Stock,Instagram,7
+CUST00483,17,Jaipur,Returning,ORD000483,2023-03-09,1445.41,Wallet,6,15,No,T-Shirts,SKU0483,XXL,In Stock,Instagram,44
+CUST00484,40,Kolkata,Returning,ORD000484,2023-03-31,3150.95,Credit Card,9,0,No,Sweatshirts,SKU0484,M,In Stock,Instagram,87
+CUST00485,33,Kolkata,Returning,ORD000485,2023-11-25,3367.18,Credit Card,2,0,No,Sweatshirts,SKU0485,S,In Stock,Facebook Ads,27
+CUST00486,9,Jaipur,New,ORD000486,2023-01-13,1716.4,UPI,3,0,Yes,Sweatshirts,SKU0486,XL,In Stock,Google Ads,26
+CUST00487,43,Pune,Returning,ORD000487,2023-05-09,1848.83,Net Banking,8,0,No,Sweatshirts,SKU0487,XXL,In Stock,Facebook Ads,64
+CUST00488,54,Pune,Returning,ORD000488,2023-07-10,1684.33,Credit Card,1,5,No,Jeans,SKU0488,XL,In Stock,Instagram,33
+CUST00489,48,Delhi,Returning,ORD000489,2023-03-06,2630.97,Net Banking,7,15,Yes,Shirts,SKU0489,M,In Stock,Facebook Ads,80
+CUST00490,39,Kolkata,Returning,ORD000490,2023-01-30,3320.04,COD,7,15,Yes,Jackets,SKU0490,XL,In Stock,Facebook Ads,100
+CUST00491,29,Bangalore,Returning,ORD000491,2023-04-11,2684.85,Wallet,1,10,Yes,Sweatshirts,SKU0491,M,In Stock,Google Ads,61
+CUST00492,42,Hyderabad,Returning,ORD000492,2023-09-14,3564.19,Net Banking,9,20,No,Sweatshirts,SKU0492,S,Out of Stock,Word of Mouth,61
+CUST00493,55,Delhi,Returning,ORD000493,2023-05-13,500.0,Wallet,8,0,No,Dresses,SKU0493,M,In Stock,Facebook Ads,37
+CUST00494,26,Chennai,Returning,ORD000494,2023-12-28,2172.62,Net Banking,4,0,No,Shirts,SKU0494,M,In Stock,Facebook Ads,25
+CUST00495,35,Jaipur,Returning,ORD000495,2023-04-01,964.87,COD,5,0,Yes,T-Shirts,SKU0495,XXL,Out of Stock,Instagram,23
+CUST00496,50,Kolkata,Returning,ORD000496,2023-06-12,2952.58,Credit Card,2,15,No,Shirts,SKU0496,XL,In Stock,Instagram,38
+CUST00497,25,Delhi,Returning,ORD000497,2023-04-02,2930.38,COD,9,0,No,Shirts,SKU0497,XXL,In Stock,Instagram,20
+CUST00498,24,Mumbai,Returning,ORD000498,2023-05-22,2326.57,Credit Card,6,0,No,Jackets,SKU0498,L,In Stock,Email Marketing,93
+CUST00499,13,Mumbai,Returning,ORD000499,2023-06-27,3265.42,Credit Card,3,10,No,Shirts,SKU0499,M,In Stock,Facebook Ads,46
+CUST00500,60,Pune,Returning,ORD000500,2023-12-01,3996.72,Wallet,7,30,Yes,Jackets,SKU0500,L,In Stock,Instagram,47
+CUST00501,58,Jaipur,Returning,ORD000501,2023-05-18,2409.22,COD,9,0,Yes,Sweatshirts,SKU0501,XXL,In Stock,Google Ads,12
+CUST00502,7,Hyderabad,New,ORD000502,2023-07-26,922.46,Net Banking,3,20,Yes,Sweatshirts,SKU0502,XL,In Stock,Email Marketing,100
+CUST00503,57,Bangalore,Returning,ORD000503,2023-10-16,500.0,COD,2,20,No,Jeans,SKU0503,XXL,Out of Stock,Word of Mouth,2
+CUST00504,36,Hyderabad,Returning,ORD000504,2023-01-17,2554.17,Wallet,7,25,Yes,Jackets,SKU0504,XL,In Stock,Facebook Ads,31
+CUST00505,45,Hyderabad,Returning,ORD000505,2023-06-18,2862.8,Credit Card,7,40,No,Jackets,SKU0505,XL,In Stock,Facebook Ads,34
+CUST00506,20,Hyderabad,Returning,ORD000506,2023-01-22,1045.71,Wallet,4,0,No,T-Shirts,SKU0506,S,In Stock,Google Ads,18
+CUST00507,1,Jaipur,New,ORD000507,2023-01-12,3588.65,UPI,9,0,No,Dresses,SKU0507,M,In Stock,Word of Mouth,13
+CUST00508,8,Hyderabad,New,ORD000508,2023-10-24,1811.56,UPI,8,30,No,Shirts,SKU0508,XXL,In Stock,Word of Mouth,47
+CUST00509,46,Chennai,Returning,ORD000509,2023-04-12,500.0,Net Banking,1,10,No,T-Shirts,SKU0509,XL,In Stock,Email Marketing,85
+CUST00510,16,Jaipur,Returning,ORD000510,2023-03-30,4384.65,Wallet,1,15,No,Jackets,SKU0510,XXL,In Stock,Facebook Ads,80
+CUST00511,14,Chennai,Returning,ORD000511,2023-04-25,4215.98,Net Banking,5,20,Yes,T-Shirts,SKU0511,XXL,In Stock,Instagram,67
+CUST00512,12,Jaipur,New,ORD000512,2023-02-07,500.0,Net Banking,6,20,No,Jeans,SKU0512,XL,In Stock,Google Ads,44
+CUST00513,51,Pune,Returning,ORD000513,2023-04-29,1656.1,UPI,3,40,No,Dresses,SKU0513,L,In Stock,Google Ads,18
+CUST00514,23,Delhi,Returning,ORD000514,2023-01-27,1597.62,Net Banking,9,50,No,Jackets,SKU0514,M,In Stock,Google Ads,63
+CUST00515,15,Mumbai,Returning,ORD000515,2023-03-16,4959.23,UPI,6,25,No,Jackets,SKU0515,M,In Stock,Google Ads,100
+CUST00516,28,Hyderabad,Returning,ORD000516,2023-11-07,2351.06,Credit Card,4,0,No,Shirts,SKU0516,S,In Stock,Instagram,65
+CUST00517,34,Pune,Returning,ORD000517,2023-07-13,500.0,Wallet,7,30,No,Dresses,SKU0517,S,In Stock,Instagram,78
+CUST00518,2,Delhi,New,ORD000518,2023-03-01,3823.16,Net Banking,8,0,No,Jeans,SKU0518,S,In Stock,Email Marketing,65
+CUST00519,32,Mumbai,Returning,ORD000519,2023-10-31,653.84,UPI,9,0,No,Sweatshirts,SKU0519,M,In Stock,Facebook Ads,74
+CUST00520,23,Kolkata,Returning,ORD000520,2023-08-23,2109.49,COD,6,30,Yes,T-Shirts,SKU0520,L,In Stock,Instagram,44
+CUST00521,22,Bangalore,Returning,ORD000521,2023-08-12,1345.35,Net Banking,6,0,No,Shirts,SKU0521,M,In Stock,Email Marketing,86
+CUST00522,51,Chennai,Returning,ORD000522,2023-10-08,1659.32,Credit Card,8,0,No,Jackets,SKU0522,M,In Stock,Word of Mouth,73
+CUST00523,25,Kolkata,Returning,ORD000523,2023-02-02,3905.89,Credit Card,5,0,No,Sweatshirts,SKU0523,M,In Stock,Facebook Ads,66
+CUST00524,58,Jaipur,Returning,ORD000524,2023-04-09,4782.0,COD,3,30,No,Jeans,SKU0524,M,In Stock,Instagram,68
+CUST00525,22,Mumbai,Returning,ORD000525,2023-11-27,588.45,UPI,3,15,No,Dresses,SKU0525,L,In Stock,Word of Mouth,2
+CUST00526,58,Kolkata,Returning,ORD000526,2023-08-29,3439.11,Net Banking,6,20,Yes,T-Shirts,SKU0526,S,In Stock,Email Marketing,37
+CUST00527,58,Bangalore,Returning,ORD000527,2023-09-29,1400.87,UPI,2,0,No,Shirts,SKU0527,XXL,In Stock,Instagram,76
+CUST00528,22,Pune,Returning,ORD000528,2023-11-01,1447.49,Credit Card,6,25,No,Jackets,SKU0528,S,In Stock,Instagram,41
+CUST00529,49,Mumbai,Returning,ORD000529,2023-05-01,3235.95,UPI,6,25,No,Jackets,SKU0529,S,In Stock,Word of Mouth,82
+CUST00530,52,Kolkata,Returning,ORD000530,2023-12-25,958.15,Credit Card,8,5,Yes,Sweatshirts,SKU0530,XXL,In Stock,Instagram,39
+CUST00531,42,Chennai,Returning,ORD000531,2023-07-02,3205.9,UPI,7,10,No,Sweatshirts,SKU0531,M,In Stock,Google Ads,49
+CUST00532,6,Chennai,New,ORD000532,2023-10-12,3595.17,COD,8,0,No,T-Shirts,SKU0532,L,In Stock,Instagram,34
+CUST00533,15,Delhi,Returning,ORD000533,2023-08-24,1851.2,Wallet,9,50,No,Dresses,SKU0533,L,In Stock,Facebook Ads,23
+CUST00534,54,Kolkata,Returning,ORD000534,2023-04-29,4490.62,COD,6,20,No,Jeans,SKU0534,S,In Stock,Word of Mouth,87
+CUST00535,43,Hyderabad,Returning,ORD000535,2023-08-13,590.76,COD,3,40,Yes,Dresses,SKU0535,XXL,In Stock,Facebook Ads,16
+CUST00536,60,Kolkata,Returning,ORD000536,2023-07-12,4518.11,Wallet,3,5,No,Dresses,SKU0536,XL,In Stock,Email Marketing,39
+CUST00537,37,Pune,Returning,ORD000537,2023-08-07,500.0,Wallet,1,25,No,Dresses,SKU0537,M,In Stock,Facebook Ads,73
+CUST00538,33,Mumbai,Returning,ORD000538,2023-11-14,6549.57,Net Banking,5,25,No,T-Shirts,SKU0538,S,In Stock,Google Ads,65
+CUST00539,8,Mumbai,New,ORD000539,2023-11-05,1890.7,Net Banking,4,20,No,T-Shirts,SKU0539,L,In Stock,Google Ads,43
+CUST00540,53,Pune,Returning,ORD000540,2023-10-10,756.54,COD,9,50,Yes,Jeans,SKU0540,XXL,In Stock,Facebook Ads,22
+CUST00541,60,Kolkata,Returning,ORD000541,2023-02-10,2150.99,COD,9,5,No,Dresses,SKU0541,XXL,In Stock,Email Marketing,5
+CUST00542,44,Pune,Returning,ORD000542,2023-09-21,930.28,Credit Card,5,0,No,T-Shirts,SKU0542,S,Out of Stock,Instagram,65
+CUST00543,44,Bangalore,Returning,ORD000543,2023-09-19,3080.45,Credit Card,4,20,No,Jeans,SKU0543,XL,In Stock,Google Ads,20
+CUST00544,5,Jaipur,New,ORD000544,2023-12-14,4551.49,Net Banking,7,25,No,Jackets,SKU0544,L,In Stock,Facebook Ads,34
+CUST00545,39,Pune,Returning,ORD000545,2023-06-21,1009.82,Net Banking,6,15,No,Jeans,SKU0545,S,In Stock,Facebook Ads,28
+CUST00546,4,Chennai,New,ORD000546,2023-08-21,3369.1,Credit Card,4,0,No,Dresses,SKU0546,XL,In Stock,Facebook Ads,6
+CUST00547,6,Pune,New,ORD000547,2023-12-31,500.0,Credit Card,2,15,Yes,Shirts,SKU0547,XXL,In Stock,Instagram,92
+CUST00548,45,Mumbai,Returning,ORD000548,2023-05-18,4049.43,UPI,1,5,No,Dresses,SKU0548,M,In Stock,Word of Mouth,52
+CUST00549,32,Chennai,Returning,ORD000549,2023-10-07,3124.35,UPI,4,10,No,Shirts,SKU0549,L,In Stock,Email Marketing,36
+CUST00550,52,Mumbai,Returning,ORD000550,2023-08-22,4114.27,Credit Card,4,20,No,Jeans,SKU0550,L,In Stock,Word of Mouth,22
+CUST00551,30,Delhi,Returning,ORD000551,2023-02-17,2316.48,UPI,1,25,No,Jackets,SKU0551,XL,In Stock,Email Marketing,96
+CUST00552,47,Hyderabad,Returning,ORD000552,2023-12-01,1847.27,Wallet,6,0,No,Jackets,SKU0552,S,In Stock,Email Marketing,7
+CUST00553,35,Mumbai,Returning,ORD000553,2023-05-30,3724.18,Net Banking,4,10,No,T-Shirts,SKU0553,XXL,Out of Stock,Facebook Ads,75
+CUST00554,55,Chennai,Returning,ORD000554,2023-03-26,537.93,Net Banking,1,0,No,Jackets,SKU0554,XL,In Stock,Google Ads,47
+CUST00555,40,Delhi,Returning,ORD000555,2023-09-15,500.0,Credit Card,1,0,No,Sweatshirts,SKU0555,M,In Stock,Facebook Ads,9
+CUST00556,52,Mumbai,Returning,ORD000556,2023-06-25,2492.56,COD,1,25,No,Jeans,SKU0556,M,In Stock,Instagram,78
+CUST00557,16,Bangalore,Returning,ORD000557,2023-04-24,1915.61,Credit Card,8,40,Yes,T-Shirts,SKU0557,M,In Stock,Email Marketing,23
+CUST00558,13,Pune,Returning,ORD000558,2023-10-07,3330.75,UPI,8,5,No,Jackets,SKU0558,XL,In Stock,Google Ads,89
+CUST00559,50,Hyderabad,Returning,ORD000559,2023-07-01,4137.33,COD,2,25,Yes,Jeans,SKU0559,XXL,In Stock,Email Marketing,46
+CUST00560,60,Mumbai,Returning,ORD000560,2023-11-28,3299.52,UPI,7,30,No,Dresses,SKU0560,L,In Stock,Email Marketing,52
+CUST00561,42,Delhi,Returning,ORD000561,2023-03-28,4017.85,Wallet,8,30,No,Jackets,SKU0561,S,In Stock,Facebook Ads,38
+CUST00562,30,Bangalore,Returning,ORD000562,2023-07-08,2981.58,UPI,8,0,No,Shirts,SKU0562,L,In Stock,Google Ads,66
+CUST00563,19,Kolkata,Returning,ORD000563,2023-02-23,3241.89,Wallet,7,50,No,Jeans,SKU0563,XXL,In Stock,Google Ads,65
+CUST00564,17,Delhi,Returning,ORD000564,2023-12-07,2325.01,Wallet,5,5,No,T-Shirts,SKU0564,L,Out of Stock,Email Marketing,5
+CUST00565,56,Pune,Returning,ORD000565,2023-12-20,3197.57,UPI,1,5,Yes,Dresses,SKU0565,XL,In Stock,Google Ads,20
+CUST00566,19,Delhi,Returning,ORD000566,2023-01-14,2749.98,UPI,9,0,No,Sweatshirts,SKU0566,M,In Stock,Google Ads,72
+CUST00567,28,Bangalore,Returning,ORD000567,2023-05-08,2987.77,Wallet,7,10,No,Dresses,SKU0567,XXL,In Stock,Facebook Ads,73
+CUST00568,58,Delhi,Returning,ORD000568,2023-03-30,2249.91,COD,2,0,No,Jackets,SKU0568,XXL,In Stock,Word of Mouth,35
+CUST00569,55,Bangalore,Returning,ORD000569,2023-09-13,3713.39,Wallet,6,0,No,Shirts,SKU0569,L,In Stock,Instagram,2
+CUST00570,26,Mumbai,Returning,ORD000570,2023-01-23,1434.32,Net Banking,2,5,No,Dresses,SKU0570,XL,In Stock,Word of Mouth,87
+CUST00571,37,Jaipur,Returning,ORD000571,2023-12-26,2472.48,Wallet,1,30,No,Sweatshirts,SKU0571,L,In Stock,Google Ads,85
+CUST00572,26,Bangalore,Returning,ORD000572,2023-05-22,4467.68,COD,7,30,No,T-Shirts,SKU0572,L,In Stock,Email Marketing,77
+CUST00573,53,Bangalore,Returning,ORD000573,2023-01-18,1076.92,Net Banking,2,5,No,Jeans,SKU0573,XXL,In Stock,Instagram,41
+CUST00574,23,Hyderabad,Returning,ORD000574,2023-12-28,500.0,Credit Card,2,30,Yes,Shirts,SKU0574,L,In Stock,Instagram,44
+CUST00575,9,Bangalore,New,ORD000575,2023-10-03,3049.69,Credit Card,5,30,Yes,Sweatshirts,SKU0575,M,In Stock,Email Marketing,43
+CUST00576,12,Bangalore,New,ORD000576,2023-06-28,2114.57,COD,5,25,No,Jackets,SKU0576,L,In Stock,Instagram,90
+CUST00577,53,Kolkata,Returning,ORD000577,2023-12-09,4016.29,Wallet,7,0,No,Jackets,SKU0577,M,In Stock,Email Marketing,32
+CUST00578,1,Jaipur,New,ORD000578,2023-08-20,2304.23,UPI,1,20,No,Jackets,SKU0578,XXL,In Stock,Instagram,59
+CUST00579,58,Mumbai,Returning,ORD000579,2023-06-28,1593.49,COD,8,40,Yes,Shirts,SKU0579,XL,Out of Stock,Word of Mouth,85
+CUST00580,58,Pune,Returning,ORD000580,2023-02-04,2386.27,Net Banking,3,20,No,Dresses,SKU0580,M,Out of Stock,Instagram,92
+CUST00581,1,Hyderabad,New,ORD000581,2023-11-12,4139.6,Net Banking,4,5,No,Shirts,SKU0581,XL,In Stock,Facebook Ads,82
+CUST00582,47,Kolkata,Returning,ORD000582,2023-10-05,3363.05,Credit Card,9,15,No,Jackets,SKU0582,XL,In Stock,Email Marketing,82
+CUST00583,34,Chennai,Returning,ORD000583,2023-12-14,500.0,Net Banking,4,20,No,Sweatshirts,SKU0583,M,In Stock,Instagram,69
+CUST00584,32,Jaipur,Returning,ORD000584,2023-03-24,2778.65,COD,5,15,Yes,Jeans,SKU0584,XXL,In Stock,Email Marketing,82
+CUST00585,54,Mumbai,Returning,ORD000585,2023-07-16,2853.64,Net Banking,7,0,No,Jeans,SKU0585,S,In Stock,Facebook Ads,76
+CUST00586,48,Mumbai,Returning,ORD000586,2023-06-27,2472.63,COD,4,5,No,Shirts,SKU0586,XL,In Stock,Instagram,25
+CUST00587,25,Chennai,Returning,ORD000587,2023-11-16,1583.67,UPI,1,30,Yes,Jackets,SKU0587,XL,In Stock,Instagram,85
+CUST00588,40,Pune,Returning,ORD000588,2023-05-09,4291.8,Credit Card,9,30,Yes,T-Shirts,SKU0588,XXL,In Stock,Facebook Ads,20
+CUST00589,45,Bangalore,Returning,ORD000589,2023-12-16,4366.05,Net Banking,4,0,Yes,Shirts,SKU0589,XXL,In Stock,Facebook Ads,99
+CUST00590,53,Kolkata,Returning,ORD000590,2023-03-02,500.0,COD,9,50,Yes,Jackets,SKU0590,L,In Stock,Facebook Ads,1
+CUST00591,1,Delhi,New,ORD000591,2023-07-07,1303.06,Wallet,6,5,No,Dresses,SKU0591,XXL,In Stock,Email Marketing,46
+CUST00592,16,Hyderabad,Returning,ORD000592,2023-07-29,2282.9,Credit Card,1,20,No,Jeans,SKU0592,XL,In Stock,Facebook Ads,29
+CUST00593,39,Delhi,Returning,ORD000593,2023-10-24,3922.76,UPI,3,25,Yes,Jeans,SKU0593,M,In Stock,Email Marketing,26
+CUST00594,5,Chennai,New,ORD000594,2023-12-04,2552.28,COD,2,30,Yes,Jeans,SKU0594,S,In Stock,Word of Mouth,70
+CUST00595,22,Mumbai,Returning,ORD000595,2023-08-04,1474.61,UPI,9,40,No,T-Shirts,SKU0595,L,In Stock,Instagram,19
+CUST00596,29,Pune,Returning,ORD000596,2023-07-23,3564.3,UPI,1,5,No,Jackets,SKU0596,M,Out of Stock,Instagram,49
+CUST00597,55,Mumbai,Returning,ORD000597,2023-03-20,2183.0,Net Banking,9,30,No,Jackets,SKU0597,S,In Stock,Google Ads,94
+CUST00598,3,Hyderabad,New,ORD000598,2023-07-10,2323.9,Net Banking,9,0,No,Jackets,SKU0598,S,In Stock,Word of Mouth,22
+CUST00599,12,Mumbai,New,ORD000599,2023-05-19,2459.26,COD,8,25,No,Jackets,SKU0599,S,In Stock,Facebook Ads,12
+CUST00600,26,Mumbai,Returning,ORD000600,2023-09-25,3361.46,Wallet,8,25,No,T-Shirts,SKU0600,M,In Stock,Facebook Ads,80
+CUST00601,16,Hyderabad,Returning,ORD000601,2023-12-10,2037.18,COD,1,20,Yes,Sweatshirts,SKU0601,L,In Stock,Word of Mouth,3
+CUST00602,51,Kolkata,Returning,ORD000602,2023-05-27,3530.42,Wallet,8,0,No,Shirts,SKU0602,L,In Stock,Facebook Ads,13
+CUST00603,37,Kolkata,Returning,ORD000603,2023-04-15,2390.4,UPI,3,30,No,Shirts,SKU0603,S,In Stock,Google Ads,19
+CUST00604,22,Hyderabad,Returning,ORD000604,2023-06-29,899.48,Credit Card,7,0,No,Jackets,SKU0604,M,Out of Stock,Email Marketing,12
+CUST00605,57,Pune,Returning,ORD000605,2023-04-26,2444.84,COD,1,0,No,Dresses,SKU0605,S,Out of Stock,Instagram,2
+CUST00606,29,Chennai,Returning,ORD000606,2023-10-16,977.18,COD,1,25,No,Jeans,SKU0606,XXL,Out of Stock,Word of Mouth,89
+CUST00607,14,Jaipur,Returning,ORD000607,2023-03-22,2561.48,Wallet,5,10,No,T-Shirts,SKU0607,L,In Stock,Instagram,89
+CUST00608,28,Mumbai,Returning,ORD000608,2023-07-06,3744.21,UPI,5,30,No,Dresses,SKU0608,XL,In Stock,Email Marketing,81
+CUST00609,5,Pune,New,ORD000609,2023-12-27,889.56,UPI,8,5,Yes,Dresses,SKU0609,S,In Stock,Word of Mouth,95
+CUST00610,47,Mumbai,Returning,ORD000610,2023-11-12,3046.41,Wallet,7,0,Yes,Jackets,SKU0610,XXL,In Stock,Email Marketing,77
+CUST00611,49,Jaipur,Returning,ORD000611,2023-11-19,1256.44,UPI,8,30,No,T-Shirts,SKU0611,L,In Stock,Facebook Ads,46
+CUST00612,30,Chennai,Returning,ORD000612,2023-11-06,2802.55,Net Banking,6,15,No,Shirts,SKU0612,M,In Stock,Facebook Ads,2
+CUST00613,46,Kolkata,Returning,ORD000613,2023-04-10,3790.31,Credit Card,6,0,No,Jeans,SKU0613,L,In Stock,Facebook Ads,0
+CUST00614,52,Pune,Returning,ORD000614,2023-09-14,500.0,COD,2,25,No,Shirts,SKU0614,M,In Stock,Email Marketing,89
+CUST00615,5,Bangalore,New,ORD000615,2023-10-20,828.29,Credit Card,6,15,Yes,Dresses,SKU0615,M,In Stock,Email Marketing,23
+CUST00616,12,Bangalore,New,ORD000616,2023-01-03,1946.53,COD,5,20,Yes,Jeans,SKU0616,S,In Stock,Email Marketing,34
+CUST00617,16,Jaipur,Returning,ORD000617,2023-08-22,2972.56,Net Banking,3,10,No,Sweatshirts,SKU0617,S,In Stock,Instagram,13
+CUST00618,26,Bangalore,Returning,ORD000618,2023-06-05,2250.43,UPI,6,30,No,Dresses,SKU0618,L,In Stock,Email Marketing,66
+CUST00619,26,Kolkata,Returning,ORD000619,2023-07-09,2431.18,Wallet,8,30,No,Shirts,SKU0619,XXL,In Stock,Facebook Ads,12
+CUST00620,48,Jaipur,Returning,ORD000620,2023-06-17,5564.48,Net Banking,9,25,No,Shirts,SKU0620,L,In Stock,Google Ads,46
+CUST00621,21,Kolkata,Returning,ORD000621,2023-05-12,681.31,Credit Card,1,0,No,Jackets,SKU0621,XL,Out of Stock,Email Marketing,49
+CUST00622,39,Chennai,Returning,ORD000622,2023-02-01,4203.23,Wallet,3,30,No,Shirts,SKU0622,M,In Stock,Google Ads,77
+CUST00623,36,Mumbai,Returning,ORD000623,2023-09-07,1975.03,UPI,3,20,Yes,T-Shirts,SKU0623,M,Out of Stock,Facebook Ads,84
+CUST00624,33,Chennai,Returning,ORD000624,2023-01-01,3324.21,Net Banking,8,20,No,Dresses,SKU0624,S,In Stock,Email Marketing,25
+CUST00625,30,Chennai,Returning,ORD000625,2023-08-13,5693.42,Wallet,1,5,No,Jeans,SKU0625,XXL,In Stock,Instagram,2
+CUST00626,37,Kolkata,Returning,ORD000626,2023-06-24,3533.02,Net Banking,5,30,No,Shirts,SKU0626,S,In Stock,Instagram,50
+CUST00627,23,Jaipur,Returning,ORD000627,2023-10-31,3058.74,Net Banking,3,25,No,Jackets,SKU0627,XL,In Stock,Google Ads,39
+CUST00628,58,Jaipur,Returning,ORD000628,2023-01-04,4898.68,UPI,2,0,No,Jackets,SKU0628,L,In Stock,Instagram,67
+CUST00629,10,Bangalore,New,ORD000629,2023-12-02,4187.2,COD,8,10,No,Shirts,SKU0629,L,In Stock,Instagram,35
+CUST00630,54,Delhi,Returning,ORD000630,2023-01-19,1300.91,Wallet,3,30,Yes,T-Shirts,SKU0630,XXL,In Stock,Instagram,50
+CUST00631,5,Mumbai,New,ORD000631,2023-06-20,2941.79,UPI,7,0,No,Jackets,SKU0631,S,In Stock,Facebook Ads,0
+CUST00632,36,Kolkata,Returning,ORD000632,2023-04-26,500.0,Net Banking,1,50,Yes,Jeans,SKU0632,S,In Stock,Instagram,32
+CUST00633,34,Bangalore,Returning,ORD000633,2023-06-08,1689.77,UPI,6,20,No,Dresses,SKU0633,XL,In Stock,Word of Mouth,6
+CUST00634,52,Pune,Returning,ORD000634,2023-12-04,2971.08,COD,3,20,Yes,Sweatshirts,SKU0634,L,In Stock,Email Marketing,51
+CUST00635,31,Delhi,Returning,ORD000635,2023-01-18,1596.84,Wallet,8,0,No,T-Shirts,SKU0635,S,In Stock,Instagram,10
+CUST00636,10,Delhi,New,ORD000636,2023-09-27,2910.05,COD,6,0,No,Jackets,SKU0636,XXL,In Stock,Instagram,26
+CUST00637,58,Kolkata,Returning,ORD000637,2023-10-07,2479.92,Credit Card,2,40,No,Dresses,SKU0637,L,In Stock,Instagram,13
+CUST00638,19,Hyderabad,Returning,ORD000638,2023-12-06,3304.63,Wallet,6,0,No,Sweatshirts,SKU0638,XL,In Stock,Word of Mouth,85
+CUST00639,58,Mumbai,Returning,ORD000639,2023-07-05,1863.7,COD,7,25,Yes,Shirts,SKU0639,XXL,In Stock,Instagram,79
+CUST00640,32,Delhi,Returning,ORD000640,2023-11-07,1089.78,Net Banking,5,5,No,Shirts,SKU0640,M,In Stock,Instagram,45
+CUST00641,1,Kolkata,New,ORD000641,2023-07-09,4717.19,Wallet,3,0,No,Jeans,SKU0641,XL,In Stock,Email Marketing,75
+CUST00642,56,Kolkata,Returning,ORD000642,2023-10-23,1756.45,Wallet,4,0,No,Sweatshirts,SKU0642,XXL,In Stock,Word of Mouth,9
+CUST00643,5,Bangalore,New,ORD000643,2023-09-21,3490.02,UPI,4,15,Yes,Shirts,SKU0643,S,In Stock,Word of Mouth,23
+CUST00644,45,Pune,Returning,ORD000644,2023-09-16,4652.87,Net Banking,6,50,No,Shirts,SKU0644,M,In Stock,Instagram,60
+CUST00645,4,Hyderabad,New,ORD000645,2023-08-24,2744.0,Credit Card,1,5,No,Jackets,SKU0645,XL,In Stock,Word of Mouth,17
+CUST00646,16,Mumbai,Returning,ORD000646,2023-02-02,1215.54,COD,4,5,Yes,Jeans,SKU0646,S,In Stock,Google Ads,85
+CUST00647,24,Jaipur,Returning,ORD000647,2023-07-03,2232.09,UPI,4,5,No,Dresses,SKU0647,M,In Stock,Word of Mouth,8
+CUST00648,16,Chennai,Returning,ORD000648,2023-07-26,4026.31,COD,1,15,No,Shirts,SKU0648,L,In Stock,Word of Mouth,16
+CUST00649,55,Pune,Returning,ORD000649,2023-09-24,2809.37,Credit Card,9,10,No,T-Shirts,SKU0649,S,In Stock,Word of Mouth,57
+CUST00650,2,Pune,New,ORD000650,2023-03-28,692.29,Credit Card,4,30,No,T-Shirts,SKU0650,XXL,In Stock,Facebook Ads,12
+CUST00651,49,Bangalore,Returning,ORD000651,2023-06-24,3394.97,Wallet,7,15,No,Dresses,SKU0651,XL,In Stock,Facebook Ads,49
+CUST00652,28,Jaipur,Returning,ORD000652,2023-06-22,3654.3,Credit Card,3,15,No,Sweatshirts,SKU0652,M,In Stock,Facebook Ads,100
+CUST00653,32,Delhi,Returning,ORD000653,2023-03-17,1967.03,COD,3,0,No,Jeans,SKU0653,S,In Stock,Word of Mouth,5
+CUST00654,27,Delhi,Returning,ORD000654,2023-09-04,3415.37,Net Banking,8,50,No,Jackets,SKU0654,L,In Stock,Google Ads,84
+CUST00655,20,Bangalore,Returning,ORD000655,2023-05-31,2867.53,Net Banking,8,0,No,T-Shirts,SKU0655,XL,In Stock,Word of Mouth,50
+CUST00656,24,Kolkata,Returning,ORD000656,2023-10-19,2203.86,Wallet,1,0,No,T-Shirts,SKU0656,XL,In Stock,Instagram,35
+CUST00657,12,Delhi,New,ORD000657,2023-04-26,559.7,COD,2,20,No,Dresses,SKU0657,S,In Stock,Google Ads,70
+CUST00658,50,Hyderabad,Returning,ORD000658,2023-08-06,4116.93,COD,8,15,No,Sweatshirts,SKU0658,L,In Stock,Facebook Ads,99
+CUST00659,35,Mumbai,Returning,ORD000659,2023-01-11,3638.82,Credit Card,1,10,No,Sweatshirts,SKU0659,M,In Stock,Email Marketing,24
+CUST00660,60,Pune,Returning,ORD000660,2023-05-29,3375.83,COD,8,10,No,Dresses,SKU0660,S,In Stock,Google Ads,10
+CUST00661,33,Pune,Returning,ORD000661,2023-01-21,4816.79,UPI,8,25,No,T-Shirts,SKU0661,M,In Stock,Facebook Ads,43
+CUST00662,33,Hyderabad,Returning,ORD000662,2023-11-23,3917.79,Credit Card,2,0,Yes,Jeans,SKU0662,XL,In Stock,Google Ads,13
+CUST00663,51,Jaipur,Returning,ORD000663,2023-05-16,3529.85,UPI,4,30,No,T-Shirts,SKU0663,M,In Stock,Google Ads,28
+CUST00664,43,Delhi,Returning,ORD000664,2023-06-10,500.0,Wallet,6,20,No,Sweatshirts,SKU0664,L,Out of Stock,Word of Mouth,73
+CUST00665,37,Pune,Returning,ORD000665,2023-05-26,4295.34,Net Banking,9,10,Yes,Jackets,SKU0665,XXL,In Stock,Instagram,49
+CUST00666,12,Chennai,New,ORD000666,2023-07-02,2624.62,Wallet,8,10,No,T-Shirts,SKU0666,L,In Stock,Email Marketing,4
+CUST00667,3,Jaipur,New,ORD000667,2023-03-18,2968.74,Net Banking,8,0,No,Jeans,SKU0667,M,In Stock,Facebook Ads,71
+CUST00668,1,Mumbai,New,ORD000668,2023-06-16,2979.0,Wallet,7,25,No,Shirts,SKU0668,S,In Stock,Google Ads,68
+CUST00669,33,Mumbai,Returning,ORD000669,2023-09-28,3660.75,COD,9,15,No,T-Shirts,SKU0669,XL,Out of Stock,Email Marketing,87
+CUST00670,40,Pune,Returning,ORD000670,2023-04-11,4183.26,UPI,2,5,No,Dresses,SKU0670,XXL,In Stock,Google Ads,56
+CUST00671,10,Bangalore,New,ORD000671,2023-09-22,3451.36,Net Banking,3,15,Yes,Shirts,SKU0671,S,In Stock,Instagram,25
+CUST00672,43,Jaipur,Returning,ORD000672,2023-06-21,3212.93,Credit Card,8,50,No,Dresses,SKU0672,S,In Stock,Email Marketing,5
+CUST00673,44,Pune,Returning,ORD000673,2023-09-08,2847.27,UPI,6,10,Yes,Dresses,SKU0673,L,In Stock,Facebook Ads,15
+CUST00674,29,Bangalore,Returning,ORD000674,2023-06-26,500.0,Credit Card,9,40,Yes,Dresses,SKU0674,M,In Stock,Google Ads,59
+CUST00675,13,Pune,Returning,ORD000675,2023-07-18,2068.61,UPI,4,5,Yes,T-Shirts,SKU0675,L,Out of Stock,Instagram,99
+CUST00676,12,Chennai,New,ORD000676,2023-03-07,1087.62,UPI,8,0,No,Sweatshirts,SKU0676,M,Out of Stock,Email Marketing,11
+CUST00677,31,Jaipur,Returning,ORD000677,2023-10-14,4316.11,Wallet,3,0,No,Shirts,SKU0677,L,In Stock,Google Ads,74
+CUST00678,46,Kolkata,Returning,ORD000678,2023-05-02,3428.56,Net Banking,3,10,Yes,Jeans,SKU0678,S,In Stock,Google Ads,2
+CUST00679,2,Mumbai,New,ORD000679,2023-12-04,1812.79,Net Banking,8,0,Yes,Sweatshirts,SKU0679,XL,In Stock,Facebook Ads,62
+CUST00680,51,Pune,Returning,ORD000680,2023-05-23,1963.42,UPI,5,0,No,T-Shirts,SKU0680,M,In Stock,Instagram,63
+CUST00681,50,Chennai,Returning,ORD000681,2023-06-25,1909.03,COD,3,40,Yes,Dresses,SKU0681,XXL,In Stock,Word of Mouth,61
+CUST00682,35,Bangalore,Returning,ORD000682,2023-03-13,1882.26,COD,1,30,Yes,Jeans,SKU0682,XXL,In Stock,Google Ads,100
+CUST00683,23,Bangalore,Returning,ORD000683,2023-11-13,500.0,Credit Card,3,25,Yes,Shirts,SKU0683,S,In Stock,Email Marketing,5
+CUST00684,17,Mumbai,Returning,ORD000684,2023-01-06,500.0,Credit Card,9,0,No,Sweatshirts,SKU0684,L,In Stock,Facebook Ads,18
+CUST00685,26,Hyderabad,Returning,ORD000685,2023-05-05,2543.57,Wallet,5,0,No,Jackets,SKU0685,L,Out of Stock,Facebook Ads,17
+CUST00686,8,Pune,New,ORD000686,2023-03-26,4112.97,UPI,2,0,No,Sweatshirts,SKU0686,S,In Stock,Google Ads,79
+CUST00687,29,Jaipur,Returning,ORD000687,2023-12-22,1693.47,Credit Card,7,25,No,Jeans,SKU0687,XXL,In Stock,Google Ads,86
+CUST00688,26,Delhi,Returning,ORD000688,2023-08-31,2955.17,Credit Card,2,40,No,T-Shirts,SKU0688,XXL,In Stock,Google Ads,42
+CUST00689,10,Bangalore,New,ORD000689,2023-01-05,3601.39,UPI,4,10,No,Shirts,SKU0689,L,In Stock,Word of Mouth,100
+CUST00690,26,Jaipur,Returning,ORD000690,2023-01-24,1009.93,Wallet,7,0,No,Jeans,SKU0690,M,In Stock,Google Ads,72
+CUST00691,34,Jaipur,Returning,ORD000691,2023-10-01,2470.04,Credit Card,4,15,No,Dresses,SKU0691,XL,In Stock,Instagram,2
+CUST00692,51,Kolkata,Returning,ORD000692,2023-08-03,1500.22,Wallet,7,5,No,Shirts,SKU0692,M,In Stock,Email Marketing,71
+CUST00693,41,Jaipur,Returning,ORD000693,2023-10-28,4909.18,Net Banking,7,5,Yes,Sweatshirts,SKU0693,XXL,In Stock,Google Ads,37
+CUST00694,7,Jaipur,New,ORD000694,2023-02-12,4843.69,Wallet,1,20,No,Jeans,SKU0694,M,In Stock,Word of Mouth,67
+CUST00695,4,Kolkata,New,ORD000695,2023-03-29,1011.49,COD,6,25,No,Sweatshirts,SKU0695,XL,In Stock,Email Marketing,75
+CUST00696,58,Bangalore,Returning,ORD000696,2023-04-25,3078.83,COD,9,0,No,Sweatshirts,SKU0696,M,In Stock,Facebook Ads,43
+CUST00697,53,Jaipur,Returning,ORD000697,2023-02-01,4101.4,Wallet,2,0,No,Sweatshirts,SKU0697,M,In Stock,Google Ads,94
+CUST00698,50,Hyderabad,Returning,ORD000698,2023-09-16,3772.49,COD,3,50,No,T-Shirts,SKU0698,M,In Stock,Email Marketing,88
+CUST00699,45,Hyderabad,Returning,ORD000699,2023-12-14,2622.34,Net Banking,5,0,Yes,Sweatshirts,SKU0699,M,In Stock,Facebook Ads,79
+CUST00700,11,Chennai,New,ORD000700,2023-04-10,4459.84,UPI,9,0,No,Dresses,SKU0700,S,In Stock,Word of Mouth,62
+CUST00701,29,Kolkata,Returning,ORD000701,2023-07-10,1143.23,COD,4,0,No,Dresses,SKU0701,XXL,In Stock,Instagram,41
+CUST00702,56,Chennai,Returning,ORD000702,2023-11-27,2045.36,COD,1,0,No,Shirts,SKU0702,XL,Out of Stock,Google Ads,63
+CUST00703,36,Kolkata,Returning,ORD000703,2023-09-02,1183.54,Wallet,4,5,No,Jackets,SKU0703,XXL,In Stock,Instagram,53
+CUST00704,25,Pune,Returning,ORD000704,2023-09-20,3673.74,Net Banking,6,30,No,Sweatshirts,SKU0704,S,In Stock,Word of Mouth,77
+CUST00705,21,Pune,Returning,ORD000705,2023-02-14,1626.04,UPI,5,5,No,Sweatshirts,SKU0705,S,In Stock,Email Marketing,76
+CUST00706,57,Jaipur,Returning,ORD000706,2023-10-21,2243.13,Wallet,1,10,No,Jeans,SKU0706,S,In Stock,Email Marketing,70
+CUST00707,36,Delhi,Returning,ORD000707,2023-09-20,3426.51,Wallet,4,20,Yes,T-Shirts,SKU0707,S,Out of Stock,Word of Mouth,75
+CUST00708,10,Pune,New,ORD000708,2023-11-11,3547.37,Net Banking,6,15,No,Jackets,SKU0708,M,In Stock,Word of Mouth,36
+CUST00709,37,Delhi,Returning,ORD000709,2023-12-02,1139.31,UPI,4,30,No,Shirts,SKU0709,XXL,In Stock,Google Ads,3
+CUST00710,9,Pune,New,ORD000710,2023-02-22,4084.98,Net Banking,9,30,No,Jackets,SKU0710,L,In Stock,Facebook Ads,1
+CUST00711,24,Mumbai,Returning,ORD000711,2023-07-29,3183.53,UPI,5,0,No,Sweatshirts,SKU0711,XL,Out of Stock,Instagram,98
+CUST00712,35,Pune,Returning,ORD000712,2023-10-23,877.45,Net Banking,8,25,No,Jeans,SKU0712,S,Out of Stock,Instagram,43
+CUST00713,49,Chennai,Returning,ORD000713,2023-10-20,508.43,Wallet,9,10,No,T-Shirts,SKU0713,XXL,In Stock,Email Marketing,66
+CUST00714,35,Bangalore,Returning,ORD000714,2023-10-30,2476.27,Wallet,5,50,No,Shirts,SKU0714,S,In Stock,Email Marketing,67
+CUST00715,48,Jaipur,Returning,ORD000715,2023-03-03,3775.14,Credit Card,6,10,No,Jackets,SKU0715,S,In Stock,Google Ads,75
+CUST00716,36,Chennai,Returning,ORD000716,2023-12-21,3813.57,COD,1,50,No,Shirts,SKU0716,S,In Stock,Word of Mouth,82
+CUST00717,18,Bangalore,Returning,ORD000717,2023-12-09,3034.25,Net Banking,7,25,No,Sweatshirts,SKU0717,S,In Stock,Instagram,73
+CUST00718,49,Hyderabad,Returning,ORD000718,2023-01-06,2573.01,Credit Card,4,0,Yes,Shirts,SKU0718,S,Out of Stock,Google Ads,61
+CUST00719,39,Chennai,Returning,ORD000719,2023-09-09,3267.61,COD,2,15,No,Jeans,SKU0719,XL,In Stock,Email Marketing,0
+CUST00720,32,Hyderabad,Returning,ORD000720,2023-05-02,1217.0,Net Banking,5,50,No,Shirts,SKU0720,XXL,Out of Stock,Email Marketing,16
+CUST00721,24,Delhi,Returning,ORD000721,2023-11-09,5030.48,UPI,3,30,No,Dresses,SKU0721,S,In Stock,Instagram,15
+CUST00722,23,Delhi,Returning,ORD000722,2023-10-04,5010.91,COD,6,0,Yes,Jeans,SKU0722,S,In Stock,Email Marketing,8
+CUST00723,32,Mumbai,Returning,ORD000723,2023-11-02,3143.22,Wallet,8,25,No,Jackets,SKU0723,S,In Stock,Email Marketing,52
+CUST00724,37,Pune,Returning,ORD000724,2023-05-26,2795.95,Credit Card,7,5,No,T-Shirts,SKU0724,S,In Stock,Facebook Ads,72
+CUST00725,12,Chennai,New,ORD000725,2023-04-28,1882.87,COD,3,0,No,T-Shirts,SKU0725,M,In Stock,Word of Mouth,58
+CUST00726,49,Hyderabad,Returning,ORD000726,2023-07-25,3293.12,COD,8,10,No,Sweatshirts,SKU0726,M,In Stock,Email Marketing,8
+CUST00727,55,Bangalore,Returning,ORD000727,2023-06-04,1463.02,Wallet,2,0,No,Sweatshirts,SKU0727,L,Out of Stock,Facebook Ads,11
+CUST00728,13,Delhi,Returning,ORD000728,2023-02-27,500.0,Net Banking,9,30,No,Dresses,SKU0728,S,In Stock,Google Ads,40
+CUST00729,23,Pune,Returning,ORD000729,2023-04-27,500.0,UPI,4,5,Yes,Jackets,SKU0729,L,In Stock,Email Marketing,14
+CUST00730,25,Delhi,Returning,ORD000730,2023-05-13,1300.75,Wallet,1,30,No,T-Shirts,SKU0730,XL,In Stock,Google Ads,65
+CUST00731,35,Bangalore,Returning,ORD000731,2023-04-01,2734.57,UPI,8,0,No,T-Shirts,SKU0731,L,In Stock,Email Marketing,74
+CUST00732,41,Pune,Returning,ORD000732,2023-07-22,2997.96,Net Banking,7,5,Yes,T-Shirts,SKU0732,XXL,In Stock,Instagram,10
+CUST00733,30,Pune,Returning,ORD000733,2023-08-21,1769.86,COD,5,0,No,T-Shirts,SKU0733,M,In Stock,Facebook Ads,7
+CUST00734,17,Hyderabad,Returning,ORD000734,2023-06-07,2712.75,UPI,5,0,No,Shirts,SKU0734,M,In Stock,Facebook Ads,54
+CUST00735,49,Hyderabad,Returning,ORD000735,2023-03-08,2088.66,Credit Card,7,0,No,Jackets,SKU0735,S,In Stock,Instagram,95
+CUST00736,20,Chennai,Returning,ORD000736,2023-01-14,1001.03,Credit Card,5,0,No,Jeans,SKU0736,S,In Stock,Word of Mouth,5
+CUST00737,48,Chennai,Returning,ORD000737,2023-01-20,2419.38,Wallet,8,15,No,Jeans,SKU0737,XL,Out of Stock,Facebook Ads,52
+CUST00738,25,Kolkata,Returning,ORD000738,2023-06-12,3719.44,Net Banking,6,0,Yes,Dresses,SKU0738,XL,In Stock,Google Ads,19
+CUST00739,22,Jaipur,Returning,ORD000739,2023-01-27,1068.91,Wallet,5,10,Yes,Shirts,SKU0739,XXL,In Stock,Facebook Ads,38
+CUST00740,13,Kolkata,Returning,ORD000740,2023-03-18,1069.59,Wallet,9,5,No,T-Shirts,SKU0740,S,In Stock,Word of Mouth,98
+CUST00741,59,Mumbai,Returning,ORD000741,2023-05-20,896.12,Wallet,2,30,No,T-Shirts,SKU0741,S,In Stock,Google Ads,71
+CUST00742,19,Delhi,Returning,ORD000742,2023-02-13,500.0,Credit Card,1,40,No,Sweatshirts,SKU0742,XL,In Stock,Google Ads,33
+CUST00743,49,Chennai,Returning,ORD000743,2023-04-13,1779.7,Credit Card,8,10,No,Sweatshirts,SKU0743,XL,In Stock,Instagram,56
+CUST00744,36,Hyderabad,Returning,ORD000744,2023-10-06,3571.13,Wallet,3,5,No,Dresses,SKU0744,XL,In Stock,Email Marketing,18
+CUST00745,12,Bangalore,New,ORD000745,2023-08-02,2760.87,Credit Card,7,0,No,T-Shirts,SKU0745,M,In Stock,Instagram,70
+CUST00746,41,Hyderabad,Returning,ORD000746,2023-10-18,2246.12,Net Banking,8,50,No,Dresses,SKU0746,L,In Stock,Email Marketing,30
+CUST00747,19,Delhi,Returning,ORD000747,2023-01-13,2693.6,Wallet,6,0,No,Shirts,SKU0747,L,In Stock,Instagram,81
+CUST00748,12,Kolkata,New,ORD000748,2023-02-26,1766.53,Credit Card,9,0,No,Jeans,SKU0748,S,In Stock,Email Marketing,39
+CUST00749,9,Hyderabad,New,ORD000749,2023-02-19,500.0,UPI,7,0,No,T-Shirts,SKU0749,M,In Stock,Facebook Ads,13
+CUST00750,7,Jaipur,New,ORD000750,2023-05-28,3675.58,Wallet,5,5,No,Jackets,SKU0750,XL,In Stock,Google Ads,99
+CUST00751,28,Mumbai,Returning,ORD000751,2023-10-18,4106.69,Wallet,8,0,Yes,Shirts,SKU0751,S,In Stock,Email Marketing,80
+CUST00752,14,Delhi,Returning,ORD000752,2023-10-22,1407.76,Net Banking,2,25,No,T-Shirts,SKU0752,M,In Stock,Facebook Ads,36
+CUST00753,31,Kolkata,Returning,ORD000753,2023-10-14,2273.75,COD,7,0,No,Jackets,SKU0753,XXL,In Stock,Word of Mouth,43
+CUST00754,52,Jaipur,Returning,ORD000754,2023-01-11,2144.5,COD,4,20,Yes,Sweatshirts,SKU0754,M,In Stock,Instagram,8
+CUST00755,19,Bangalore,Returning,ORD000755,2023-02-25,3026.93,Net Banking,9,0,No,Dresses,SKU0755,S,Out of Stock,Word of Mouth,57
+CUST00756,58,Kolkata,Returning,ORD000756,2023-11-21,5034.84,Net Banking,1,0,Yes,Sweatshirts,SKU0756,L,In Stock,Facebook Ads,19
+CUST00757,47,Pune,Returning,ORD000757,2023-05-28,4239.69,Net Banking,7,40,No,Jeans,SKU0757,XL,In Stock,Word of Mouth,91
+CUST00758,16,Jaipur,Returning,ORD000758,2023-06-21,1934.63,COD,6,0,No,Sweatshirts,SKU0758,XXL,In Stock,Word of Mouth,49
+CUST00759,53,Jaipur,Returning,ORD000759,2023-03-25,3313.7,Net Banking,8,30,No,T-Shirts,SKU0759,M,In Stock,Facebook Ads,19
+CUST00760,5,Mumbai,New,ORD000760,2023-07-18,4381.54,Credit Card,5,15,Yes,Jackets,SKU0760,S,In Stock,Google Ads,35
+CUST00761,35,Delhi,Returning,ORD000761,2023-08-14,3112.52,Wallet,1,0,No,Sweatshirts,SKU0761,S,In Stock,Email Marketing,26
+CUST00762,12,Bangalore,New,ORD000762,2023-04-24,2492.95,Wallet,1,50,No,T-Shirts,SKU0762,XL,In Stock,Instagram,71
+CUST00763,25,Mumbai,Returning,ORD000763,2023-02-05,3169.0,UPI,9,0,No,Jeans,SKU0763,S,Out of Stock,Email Marketing,31
+CUST00764,52,Kolkata,Returning,ORD000764,2023-09-17,1445.09,UPI,6,30,No,Jackets,SKU0764,S,In Stock,Instagram,0
+CUST00765,59,Mumbai,Returning,ORD000765,2023-08-19,1664.08,Wallet,5,0,Yes,Sweatshirts,SKU0765,XL,In Stock,Email Marketing,16
+CUST00766,21,Jaipur,Returning,ORD000766,2023-11-06,903.95,Credit Card,1,30,No,Dresses,SKU0766,XXL,In Stock,Word of Mouth,8
+CUST00767,36,Delhi,Returning,ORD000767,2023-03-13,2960.6,COD,6,0,No,Dresses,SKU0767,L,In Stock,Google Ads,83
+CUST00768,53,Chennai,Returning,ORD000768,2023-12-17,2302.9,COD,6,15,No,Jackets,SKU0768,L,In Stock,Word of Mouth,44
+CUST00769,23,Mumbai,Returning,ORD000769,2023-11-18,1265.32,Credit Card,3,25,Yes,Dresses,SKU0769,M,In Stock,Google Ads,95
+CUST00770,16,Pune,Returning,ORD000770,2023-03-19,2253.73,COD,8,40,Yes,Sweatshirts,SKU0770,XXL,In Stock,Facebook Ads,65
+CUST00771,57,Mumbai,Returning,ORD000771,2023-09-30,3205.0,Net Banking,1,40,Yes,Sweatshirts,SKU0771,M,In Stock,Instagram,31
+CUST00772,39,Kolkata,Returning,ORD000772,2023-09-23,5372.07,Wallet,1,30,No,Jackets,SKU0772,L,In Stock,Instagram,44
+CUST00773,45,Kolkata,Returning,ORD000773,2023-07-17,4018.1,Wallet,6,30,No,Sweatshirts,SKU0773,XL,In Stock,Facebook Ads,8
+CUST00774,53,Bangalore,Returning,ORD000774,2023-08-08,500.0,Credit Card,1,0,No,T-Shirts,SKU0774,S,In Stock,Email Marketing,29
+CUST00775,42,Kolkata,Returning,ORD000775,2023-09-25,2858.96,COD,6,0,No,Jeans,SKU0775,L,In Stock,Facebook Ads,83
+CUST00776,58,Hyderabad,Returning,ORD000776,2023-01-25,4643.99,UPI,1,0,No,Dresses,SKU0776,XXL,In Stock,Facebook Ads,37
+CUST00777,39,Delhi,Returning,ORD000777,2023-04-20,500.0,UPI,6,5,No,T-Shirts,SKU0777,L,In Stock,Google Ads,59
+CUST00778,14,Delhi,Returning,ORD000778,2023-05-19,3327.34,COD,3,5,No,Jackets,SKU0778,XXL,In Stock,Facebook Ads,0
+CUST00779,31,Chennai,Returning,ORD000779,2023-07-04,2145.04,UPI,8,15,Yes,Dresses,SKU0779,XXL,In Stock,Instagram,4
+CUST00780,58,Chennai,Returning,ORD000780,2023-04-14,4225.44,Credit Card,6,0,No,T-Shirts,SKU0780,XXL,In Stock,Word of Mouth,62
+CUST00781,5,Delhi,New,ORD000781,2023-11-02,3106.39,Credit Card,1,20,No,Sweatshirts,SKU0781,M,In Stock,Google Ads,98
+CUST00782,35,Pune,Returning,ORD000782,2023-02-25,1173.98,COD,5,0,Yes,Jackets,SKU0782,XL,In Stock,Google Ads,35
+CUST00783,23,Chennai,Returning,ORD000783,2023-04-05,2198.72,UPI,8,5,No,Jackets,SKU0783,L,In Stock,Email Marketing,64
+CUST00784,29,Bangalore,Returning,ORD000784,2023-08-29,2287.46,Credit Card,3,15,No,Dresses,SKU0784,XL,In Stock,Word of Mouth,77
+CUST00785,43,Kolkata,Returning,ORD000785,2023-08-18,2315.23,Credit Card,6,25,No,Sweatshirts,SKU0785,S,In Stock,Google Ads,72
+CUST00786,11,Delhi,New,ORD000786,2023-04-09,4178.89,Net Banking,5,25,No,Dresses,SKU0786,L,In Stock,Facebook Ads,93
+CUST00787,18,Jaipur,Returning,ORD000787,2023-12-12,1236.07,Net Banking,6,20,No,Shirts,SKU0787,XL,Out of Stock,Google Ads,23
+CUST00788,47,Chennai,Returning,ORD000788,2023-05-06,4004.58,Credit Card,1,0,No,T-Shirts,SKU0788,XL,In Stock,Google Ads,3
+CUST00789,12,Delhi,New,ORD000789,2023-02-19,2046.63,COD,7,15,No,Shirts,SKU0789,S,In Stock,Google Ads,77
+CUST00790,9,Hyderabad,New,ORD000790,2023-09-10,2835.27,Wallet,9,0,No,T-Shirts,SKU0790,XXL,In Stock,Email Marketing,88
+CUST00791,10,Mumbai,New,ORD000791,2023-09-09,2608.57,Wallet,2,5,No,Jeans,SKU0791,L,In Stock,Google Ads,67
+CUST00792,58,Kolkata,Returning,ORD000792,2023-08-15,2467.29,Credit Card,5,10,No,Jackets,SKU0792,L,In Stock,Google Ads,24
+CUST00793,44,Delhi,Returning,ORD000793,2023-05-17,2479.6,Credit Card,4,0,No,Dresses,SKU0793,S,In Stock,Email Marketing,73
+CUST00794,17,Mumbai,Returning,ORD000794,2023-04-23,4686.04,Credit Card,6,0,No,Jeans,SKU0794,XXL,In Stock,Word of Mouth,98
+CUST00795,38,Chennai,Returning,ORD000795,2023-07-14,3763.67,COD,6,50,No,Jeans,SKU0795,L,In Stock,Instagram,6
+CUST00796,7,Mumbai,New,ORD000796,2023-07-17,1955.93,Net Banking,2,50,Yes,Jackets,SKU0796,L,In Stock,Email Marketing,12
+CUST00797,46,Kolkata,Returning,ORD000797,2023-11-10,4874.18,Credit Card,2,5,Yes,Jackets,SKU0797,L,Out of Stock,Email Marketing,67
+CUST00798,13,Delhi,Returning,ORD000798,2023-07-23,2912.02,Credit Card,4,0,Yes,T-Shirts,SKU0798,XXL,In Stock,Google Ads,42
+CUST00799,40,Hyderabad,Returning,ORD000799,2023-06-29,3036.44,UPI,1,0,No,Shirts,SKU0799,S,In Stock,Google Ads,56
+CUST00800,42,Pune,Returning,ORD000800,2023-06-26,1244.02,COD,9,5,No,Sweatshirts,SKU0800,L,In Stock,Instagram,35
+CUST00801,9,Chennai,New,ORD000801,2023-06-29,1753.75,Credit Card,7,40,No,T-Shirts,SKU0801,XL,In Stock,Google Ads,13
+CUST00802,50,Delhi,Returning,ORD000802,2023-07-16,1467.24,UPI,7,0,No,Sweatshirts,SKU0802,XXL,In Stock,Facebook Ads,81
+CUST00803,27,Kolkata,Returning,ORD000803,2023-03-10,2629.11,Wallet,3,25,No,Jeans,SKU0803,M,In Stock,Google Ads,71
+CUST00804,58,Chennai,Returning,ORD000804,2023-02-21,3458.17,Credit Card,3,0,No,Sweatshirts,SKU0804,S,In Stock,Google Ads,95
+CUST00805,2,Bangalore,New,ORD000805,2023-07-25,3050.85,Credit Card,1,50,Yes,Shirts,SKU0805,XL,In Stock,Facebook Ads,26
+CUST00806,5,Mumbai,New,ORD000806,2023-05-01,4882.07,UPI,3,5,No,T-Shirts,SKU0806,L,In Stock,Instagram,36
+CUST00807,29,Pune,Returning,ORD000807,2023-09-07,1168.36,COD,3,25,No,Jackets,SKU0807,M,Out of Stock,Facebook Ads,86
+CUST00808,37,Kolkata,Returning,ORD000808,2023-04-03,2672.3,Credit Card,4,5,No,Shirts,SKU0808,S,In Stock,Email Marketing,70
+CUST00809,38,Bangalore,Returning,ORD000809,2023-03-31,575.59,Wallet,4,20,No,Shirts,SKU0809,XXL,In Stock,Facebook Ads,75
+CUST00810,19,Jaipur,Returning,ORD000810,2023-01-26,1117.19,Credit Card,3,0,No,T-Shirts,SKU0810,M,In Stock,Word of Mouth,24
+CUST00811,8,Delhi,New,ORD000811,2023-08-05,4396.87,Wallet,8,0,Yes,Jackets,SKU0811,M,Out of Stock,Email Marketing,66
+CUST00812,48,Hyderabad,Returning,ORD000812,2023-10-08,1805.25,Net Banking,8,40,Yes,Shirts,SKU0812,XL,In Stock,Google Ads,89
+CUST00813,45,Chennai,Returning,ORD000813,2023-03-12,1294.95,Net Banking,1,40,Yes,Jackets,SKU0813,S,In Stock,Email Marketing,3
+CUST00814,1,Mumbai,New,ORD000814,2023-08-12,500.0,Wallet,7,30,No,Dresses,SKU0814,XL,Out of Stock,Instagram,99
+CUST00815,22,Chennai,Returning,ORD000815,2023-11-05,1279.97,COD,2,20,No,Dresses,SKU0815,XL,Out of Stock,Instagram,78
+CUST00816,52,Pune,Returning,ORD000816,2023-03-30,2192.08,Credit Card,1,30,No,Dresses,SKU0816,L,In Stock,Facebook Ads,95
+CUST00817,17,Delhi,Returning,ORD000817,2023-12-28,500.0,Credit Card,3,0,Yes,Sweatshirts,SKU0817,XXL,In Stock,Email Marketing,92
+CUST00818,7,Chennai,New,ORD000818,2023-12-26,2105.82,Net Banking,4,5,No,Shirts,SKU0818,M,In Stock,Google Ads,73
+CUST00819,25,Mumbai,Returning,ORD000819,2023-05-08,4405.95,Wallet,6,5,No,T-Shirts,SKU0819,S,In Stock,Instagram,84
+CUST00820,45,Delhi,Returning,ORD000820,2023-03-11,1439.04,Credit Card,5,20,No,T-Shirts,SKU0820,XXL,In Stock,Google Ads,15
+CUST00821,4,Chennai,New,ORD000821,2023-02-03,1084.93,Credit Card,4,5,No,Sweatshirts,SKU0821,XXL,In Stock,Word of Mouth,18
+CUST00822,36,Hyderabad,Returning,ORD000822,2023-10-25,814.15,COD,8,0,No,T-Shirts,SKU0822,S,In Stock,Instagram,28
+CUST00823,6,Kolkata,New,ORD000823,2023-04-16,787.35,UPI,4,15,No,Dresses,SKU0823,XXL,In Stock,Facebook Ads,50
+CUST00824,60,Delhi,Returning,ORD000824,2023-07-27,3303.37,Net Banking,2,30,No,Shirts,SKU0824,L,In Stock,Word of Mouth,17
+CUST00825,31,Kolkata,Returning,ORD000825,2023-09-22,2573.0,Net Banking,3,5,No,T-Shirts,SKU0825,XXL,In Stock,Email Marketing,57
+CUST00826,19,Jaipur,Returning,ORD000826,2023-07-30,3935.29,UPI,6,0,No,T-Shirts,SKU0826,L,In Stock,Google Ads,43
+CUST00827,44,Delhi,Returning,ORD000827,2023-12-23,5529.76,Credit Card,8,0,No,Jeans,SKU0827,M,In Stock,Instagram,15
+CUST00828,54,Hyderabad,Returning,ORD000828,2023-09-27,500.0,COD,8,0,No,Jeans,SKU0828,M,In Stock,Word of Mouth,64
+CUST00829,39,Kolkata,Returning,ORD000829,2023-08-06,3070.12,COD,9,0,No,Jeans,SKU0829,XL,Out of Stock,Word of Mouth,1
+CUST00830,27,Bangalore,Returning,ORD000830,2023-01-09,822.07,Net Banking,7,20,No,Shirts,SKU0830,L,In Stock,Instagram,55
+CUST00831,10,Mumbai,New,ORD000831,2023-11-16,3683.35,COD,2,20,No,Dresses,SKU0831,M,In Stock,Email Marketing,78
+CUST00832,26,Bangalore,Returning,ORD000832,2023-03-19,2092.13,UPI,8,20,No,Jackets,SKU0832,XXL,In Stock,Email Marketing,27
+CUST00833,19,Chennai,Returning,ORD000833,2023-02-15,2540.98,Credit Card,7,5,No,Dresses,SKU0833,S,In Stock,Facebook Ads,64
+CUST00834,39,Hyderabad,Returning,ORD000834,2023-07-02,575.23,UPI,8,30,No,Dresses,SKU0834,S,In Stock,Email Marketing,4
+CUST00835,3,Bangalore,New,ORD000835,2023-12-08,1860.36,Wallet,3,0,No,Shirts,SKU0835,L,In Stock,Facebook Ads,21
+CUST00836,45,Delhi,Returning,ORD000836,2023-10-09,2634.49,Net Banking,7,10,No,Shirts,SKU0836,XL,In Stock,Word of Mouth,99
+CUST00837,13,Chennai,Returning,ORD000837,2023-01-15,4534.12,COD,9,30,No,Jeans,SKU0837,XXL,In Stock,Instagram,12
+CUST00838,50,Chennai,Returning,ORD000838,2023-04-13,1308.16,Wallet,3,0,No,T-Shirts,SKU0838,L,In Stock,Email Marketing,64
+CUST00839,28,Bangalore,Returning,ORD000839,2023-02-03,1673.96,COD,6,0,No,Sweatshirts,SKU0839,S,In Stock,Facebook Ads,15
+CUST00840,58,Jaipur,Returning,ORD000840,2023-09-17,3916.43,Credit Card,2,30,No,Sweatshirts,SKU0840,L,In Stock,Word of Mouth,85
+CUST00841,20,Bangalore,Returning,ORD000841,2023-06-08,1210.99,Credit Card,2,5,No,Jackets,SKU0841,XXL,In Stock,Email Marketing,63
+CUST00842,28,Jaipur,Returning,ORD000842,2023-06-15,4213.58,Credit Card,5,20,No,T-Shirts,SKU0842,M,In Stock,Google Ads,31
+CUST00843,8,Hyderabad,New,ORD000843,2023-08-27,2486.37,COD,5,0,No,Jackets,SKU0843,XXL,In Stock,Word of Mouth,79
+CUST00844,41,Mumbai,Returning,ORD000844,2023-06-13,2954.68,Wallet,7,20,No,Jeans,SKU0844,M,In Stock,Email Marketing,50
+CUST00845,39,Bangalore,Returning,ORD000845,2023-03-11,3051.28,Credit Card,2,5,No,Jackets,SKU0845,M,In Stock,Word of Mouth,78
+CUST00846,1,Pune,New,ORD000846,2023-10-30,1575.67,Wallet,7,0,No,T-Shirts,SKU0846,M,In Stock,Instagram,57
+CUST00847,3,Jaipur,New,ORD000847,2023-01-03,3084.83,COD,5,20,No,T-Shirts,SKU0847,L,In Stock,Instagram,45
+CUST00848,13,Bangalore,Returning,ORD000848,2023-01-22,1341.45,Wallet,6,0,Yes,Sweatshirts,SKU0848,S,In Stock,Instagram,51
+CUST00849,28,Kolkata,Returning,ORD000849,2023-09-05,1746.85,COD,8,5,No,Jeans,SKU0849,L,In Stock,Google Ads,62
+CUST00850,57,Delhi,Returning,ORD000850,2023-11-04,3338.04,COD,4,0,No,Shirts,SKU0850,S,In Stock,Instagram,75
+CUST00851,60,Pune,Returning,ORD000851,2023-04-10,2940.09,Net Banking,7,0,No,Jackets,SKU0851,XXL,Out of Stock,Google Ads,59
+CUST00852,49,Pune,Returning,ORD000852,2023-01-15,2387.55,COD,6,0,No,Sweatshirts,SKU0852,XL,In Stock,Instagram,64
+CUST00853,25,Jaipur,Returning,ORD000853,2023-11-08,611.9,COD,2,0,No,Jackets,SKU0853,XXL,In Stock,Word of Mouth,80
+CUST00854,56,Kolkata,Returning,ORD000854,2023-05-04,986.26,UPI,8,40,No,Jackets,SKU0854,L,In Stock,Email Marketing,54
+CUST00855,33,Kolkata,Returning,ORD000855,2023-02-02,2915.06,Credit Card,9,0,No,Shirts,SKU0855,L,In Stock,Email Marketing,56
+CUST00856,38,Chennai,Returning,ORD000856,2023-09-26,3598.21,Net Banking,5,10,No,Jeans,SKU0856,S,In Stock,Instagram,91
+CUST00857,53,Jaipur,Returning,ORD000857,2023-09-01,835.53,Net Banking,4,0,Yes,T-Shirts,SKU0857,L,In Stock,Email Marketing,70
+CUST00858,6,Mumbai,New,ORD000858,2023-10-27,1240.26,Net Banking,6,5,No,Dresses,SKU0858,M,In Stock,Instagram,72
+CUST00859,58,Delhi,Returning,ORD000859,2023-10-27,2701.28,UPI,8,40,Yes,Jackets,SKU0859,L,In Stock,Instagram,85
+CUST00860,44,Hyderabad,Returning,ORD000860,2023-05-16,2669.18,COD,3,0,No,Dresses,SKU0860,S,Out of Stock,Facebook Ads,25
+CUST00861,45,Pune,Returning,ORD000861,2023-10-26,500.0,Credit Card,1,50,No,Jeans,SKU0861,S,In Stock,Facebook Ads,11
+CUST00862,32,Hyderabad,Returning,ORD000862,2023-05-20,2742.34,Wallet,4,0,No,Dresses,SKU0862,M,In Stock,Facebook Ads,70
+CUST00863,45,Bangalore,Returning,ORD000863,2023-07-05,1602.45,COD,4,25,No,Jackets,SKU0863,S,In Stock,Google Ads,45
+CUST00864,47,Bangalore,Returning,ORD000864,2023-01-09,4961.57,UPI,1,15,Yes,Shirts,SKU0864,XL,In Stock,Facebook Ads,46
+CUST00865,21,Hyderabad,Returning,ORD000865,2023-02-09,2873.8,COD,9,30,No,Dresses,SKU0865,XXL,In Stock,Instagram,78
+CUST00866,16,Bangalore,Returning,ORD000866,2023-12-25,3132.21,COD,3,15,No,Jeans,SKU0866,L,In Stock,Word of Mouth,37
+CUST00867,54,Mumbai,Returning,ORD000867,2023-01-19,3171.04,UPI,5,15,No,Jeans,SKU0867,XL,Out of Stock,Facebook Ads,20
+CUST00868,21,Kolkata,Returning,ORD000868,2023-08-15,679.11,Net Banking,6,0,No,Shirts,SKU0868,L,In Stock,Facebook Ads,13
+CUST00869,11,Bangalore,New,ORD000869,2023-12-03,5415.82,Net Banking,8,0,No,Dresses,SKU0869,XL,In Stock,Word of Mouth,1
+CUST00870,60,Chennai,Returning,ORD000870,2023-02-08,500.0,Credit Card,6,40,Yes,Dresses,SKU0870,L,In Stock,Instagram,71
+CUST00871,37,Bangalore,Returning,ORD000871,2023-08-05,3693.55,Credit Card,3,5,No,T-Shirts,SKU0871,M,In Stock,Google Ads,69
+CUST00872,36,Delhi,Returning,ORD000872,2023-06-10,3428.0,Net Banking,6,5,No,Sweatshirts,SKU0872,S,In Stock,Facebook Ads,100
+CUST00873,35,Mumbai,Returning,ORD000873,2023-04-30,1784.5,Wallet,1,25,No,Jeans,SKU0873,S,In Stock,Word of Mouth,100
+CUST00874,19,Delhi,Returning,ORD000874,2023-06-17,3499.68,COD,4,5,No,T-Shirts,SKU0874,M,In Stock,Instagram,32
+CUST00875,20,Delhi,Returning,ORD000875,2023-12-29,2023.64,Wallet,6,50,Yes,Jeans,SKU0875,XL,In Stock,Email Marketing,5
+CUST00876,57,Chennai,Returning,ORD000876,2023-06-08,1486.81,COD,7,25,No,T-Shirts,SKU0876,XXL,In Stock,Google Ads,89
+CUST00877,18,Mumbai,Returning,ORD000877,2023-05-17,3204.34,Net Banking,3,15,Yes,Sweatshirts,SKU0877,XL,In Stock,Word of Mouth,36
+CUST00878,47,Mumbai,Returning,ORD000878,2023-04-23,990.16,Credit Card,9,30,No,T-Shirts,SKU0878,S,In Stock,Word of Mouth,13
+CUST00879,41,Jaipur,Returning,ORD000879,2023-08-28,2163.62,Credit Card,7,0,No,Jeans,SKU0879,XXL,In Stock,Word of Mouth,36
+CUST00880,49,Mumbai,Returning,ORD000880,2023-03-29,1608.73,Wallet,1,0,No,Dresses,SKU0880,L,In Stock,Facebook Ads,7
+CUST00881,14,Mumbai,Returning,ORD000881,2023-06-15,1996.03,Credit Card,2,10,No,Jeans,SKU0881,XXL,In Stock,Email Marketing,76
+CUST00882,15,Mumbai,Returning,ORD000882,2023-10-18,3149.09,Net Banking,1,0,No,Jackets,SKU0882,XL,In Stock,Google Ads,12
+CUST00883,31,Chennai,Returning,ORD000883,2023-01-23,1608.45,Wallet,9,25,No,Shirts,SKU0883,M,In Stock,Instagram,39
+CUST00884,1,Bangalore,New,ORD000884,2023-01-30,2211.51,COD,9,40,No,Shirts,SKU0884,L,In Stock,Instagram,91
+CUST00885,53,Jaipur,Returning,ORD000885,2023-05-27,1745.28,Credit Card,7,10,Yes,Jackets,SKU0885,XL,In Stock,Email Marketing,57
+CUST00886,54,Delhi,Returning,ORD000886,2023-08-03,4665.99,UPI,3,5,No,Shirts,SKU0886,L,In Stock,Word of Mouth,17
+CUST00887,54,Mumbai,Returning,ORD000887,2023-03-01,3013.92,Credit Card,5,50,No,Shirts,SKU0887,XXL,In Stock,Word of Mouth,56
+CUST00888,3,Pune,New,ORD000888,2023-02-11,2830.1,COD,4,10,No,Sweatshirts,SKU0888,S,In Stock,Word of Mouth,82
+CUST00889,16,Bangalore,Returning,ORD000889,2023-05-25,3525.13,Wallet,7,10,No,Dresses,SKU0889,XL,In Stock,Word of Mouth,37
+CUST00890,23,Bangalore,Returning,ORD000890,2023-07-01,1608.8,COD,9,5,No,Dresses,SKU0890,M,Out of Stock,Word of Mouth,31
+CUST00891,57,Delhi,Returning,ORD000891,2023-11-11,3788.89,UPI,2,40,No,Jeans,SKU0891,XXL,In Stock,Email Marketing,85
+CUST00892,11,Chennai,New,ORD000892,2023-12-11,3019.27,Net Banking,8,15,No,Jackets,SKU0892,XL,Out of Stock,Facebook Ads,65
+CUST00893,12,Hyderabad,New,ORD000893,2023-12-12,500.0,Credit Card,9,25,No,T-Shirts,SKU0893,M,In Stock,Google Ads,76
+CUST00894,10,Hyderabad,New,ORD000894,2023-08-27,500.0,Wallet,9,30,No,Jeans,SKU0894,XL,In Stock,Word of Mouth,86
+CUST00895,32,Bangalore,Returning,ORD000895,2023-09-26,1641.55,Net Banking,7,5,No,Jeans,SKU0895,XXL,In Stock,Facebook Ads,24
+CUST00896,16,Kolkata,Returning,ORD000896,2023-11-15,518.49,COD,9,10,No,Jeans,SKU0896,XL,In Stock,Instagram,91
+CUST00897,8,Kolkata,New,ORD000897,2023-04-17,2142.58,Wallet,9,30,Yes,Jeans,SKU0897,L,In Stock,Email Marketing,57
+CUST00898,38,Delhi,Returning,ORD000898,2023-10-20,979.39,Net Banking,3,5,No,Dresses,SKU0898,XXL,In Stock,Facebook Ads,74
+CUST00899,12,Hyderabad,New,ORD000899,2023-11-17,2353.42,Wallet,4,25,No,T-Shirts,SKU0899,XL,In Stock,Word of Mouth,32
+CUST00900,24,Bangalore,Returning,ORD000900,2023-08-01,4617.56,UPI,2,40,No,Jeans,SKU0900,S,In Stock,Word of Mouth,87
+CUST00901,28,Chennai,Returning,ORD000901,2023-01-16,2425.93,UPI,3,20,No,Dresses,SKU0901,XL,In Stock,Word of Mouth,65
+CUST00902,53,Hyderabad,Returning,ORD000902,2023-11-07,2045.55,Credit Card,5,25,Yes,Jeans,SKU0902,L,In Stock,Facebook Ads,29
+CUST00903,8,Bangalore,New,ORD000903,2023-02-15,3082.36,Credit Card,5,30,No,Shirts,SKU0903,M,In Stock,Word of Mouth,80
+CUST00904,58,Bangalore,Returning,ORD000904,2023-12-18,1455.37,UPI,6,30,No,Jeans,SKU0904,M,In Stock,Facebook Ads,33
+CUST00905,28,Mumbai,Returning,ORD000905,2023-03-15,3765.12,Wallet,7,5,Yes,Jackets,SKU0905,M,In Stock,Word of Mouth,85
+CUST00906,36,Chennai,Returning,ORD000906,2023-02-22,3242.82,UPI,7,0,Yes,Jackets,SKU0906,S,In Stock,Instagram,68
+CUST00907,26,Mumbai,Returning,ORD000907,2023-09-10,2558.3,Credit Card,1,10,No,Jeans,SKU0907,L,In Stock,Instagram,47
+CUST00908,8,Delhi,New,ORD000908,2023-01-25,2731.47,UPI,2,20,No,Sweatshirts,SKU0908,XXL,In Stock,Google Ads,39
+CUST00909,58,Mumbai,Returning,ORD000909,2023-10-08,5562.62,UPI,9,10,Yes,Shirts,SKU0909,M,In Stock,Word of Mouth,50
+CUST00910,60,Pune,Returning,ORD000910,2023-07-15,3913.47,Wallet,2,25,No,T-Shirts,SKU0910,L,In Stock,Word of Mouth,79
+CUST00911,50,Mumbai,Returning,ORD000911,2023-08-17,5799.29,Net Banking,6,5,No,Jeans,SKU0911,XL,In Stock,Facebook Ads,12
+CUST00912,28,Pune,Returning,ORD000912,2023-10-06,3298.05,Credit Card,1,20,No,T-Shirts,SKU0912,S,Out of Stock,Facebook Ads,89
+CUST00913,28,Hyderabad,Returning,ORD000913,2023-07-14,500.0,Wallet,3,0,No,Shirts,SKU0913,L,In Stock,Word of Mouth,30
+CUST00914,37,Kolkata,Returning,ORD000914,2023-03-03,2106.74,UPI,2,25,No,Jeans,SKU0914,L,In Stock,Google Ads,38
+CUST00915,41,Jaipur,Returning,ORD000915,2023-08-22,500.0,UPI,3,15,No,Sweatshirts,SKU0915,XXL,Out of Stock,Word of Mouth,62
+CUST00916,36,Jaipur,Returning,ORD000916,2023-03-22,3292.45,Net Banking,5,0,No,Dresses,SKU0916,L,In Stock,Facebook Ads,47
+CUST00917,27,Bangalore,Returning,ORD000917,2023-01-03,3618.11,Credit Card,6,0,No,Sweatshirts,SKU0917,XXL,In Stock,Word of Mouth,86
+CUST00918,54,Jaipur,Returning,ORD000918,2023-02-08,1171.13,Credit Card,9,25,No,Sweatshirts,SKU0918,S,In Stock,Facebook Ads,47
+CUST00919,17,Pune,Returning,ORD000919,2023-05-15,1516.55,COD,4,10,No,Dresses,SKU0919,S,In Stock,Word of Mouth,60
+CUST00920,9,Chennai,New,ORD000920,2023-04-25,2723.13,Credit Card,7,0,No,Dresses,SKU0920,XL,In Stock,Email Marketing,11
+CUST00921,33,Mumbai,Returning,ORD000921,2023-12-19,702.84,Net Banking,6,50,No,Jackets,SKU0921,XXL,In Stock,Facebook Ads,77
+CUST00922,53,Pune,Returning,ORD000922,2023-03-15,590.26,COD,2,25,Yes,Dresses,SKU0922,XXL,In Stock,Google Ads,55
+CUST00923,20,Chennai,Returning,ORD000923,2023-12-02,4357.95,COD,8,50,No,Jeans,SKU0923,M,Out of Stock,Email Marketing,17
+CUST00924,13,Kolkata,Returning,ORD000924,2023-05-22,2672.07,UPI,7,10,No,T-Shirts,SKU0924,M,In Stock,Word of Mouth,26
+CUST00925,28,Jaipur,Returning,ORD000925,2023-05-15,1662.84,UPI,7,10,No,Jackets,SKU0925,XL,In Stock,Facebook Ads,27
+CUST00926,48,Kolkata,Returning,ORD000926,2023-10-02,500.0,Credit Card,8,30,No,Jackets,SKU0926,S,In Stock,Email Marketing,81
+CUST00927,29,Jaipur,Returning,ORD000927,2023-04-27,3778.53,COD,1,15,No,T-Shirts,SKU0927,M,In Stock,Google Ads,79
+CUST00928,13,Mumbai,Returning,ORD000928,2023-03-02,1473.22,UPI,1,25,No,Jackets,SKU0928,L,In Stock,Facebook Ads,51
+CUST00929,46,Delhi,Returning,ORD000929,2023-02-28,5291.03,Net Banking,8,0,No,Dresses,SKU0929,S,In Stock,Email Marketing,15
+CUST00930,35,Mumbai,Returning,ORD000930,2023-08-16,3788.97,UPI,4,10,No,Sweatshirts,SKU0930,L,In Stock,Email Marketing,76
+CUST00931,6,Hyderabad,New,ORD000931,2023-07-29,1287.79,UPI,5,0,Yes,Shirts,SKU0931,XXL,In Stock,Email Marketing,57
+CUST00932,18,Pune,Returning,ORD000932,2023-07-11,1426.79,COD,8,0,Yes,Dresses,SKU0932,S,In Stock,Instagram,92
+CUST00933,51,Bangalore,Returning,ORD000933,2023-08-26,5082.78,COD,5,0,No,Sweatshirts,SKU0933,XL,In Stock,Word of Mouth,8
+CUST00934,5,Delhi,New,ORD000934,2023-11-12,2373.61,Wallet,4,0,No,Sweatshirts,SKU0934,XXL,In Stock,Facebook Ads,25
+CUST00935,47,Mumbai,Returning,ORD000935,2023-06-05,1730.03,Net Banking,6,50,No,Jackets,SKU0935,XXL,In Stock,Facebook Ads,27
+CUST00936,25,Chennai,Returning,ORD000936,2023-02-20,2541.58,COD,5,0,Yes,Jeans,SKU0936,L,In Stock,Facebook Ads,76
+CUST00937,2,Delhi,New,ORD000937,2023-10-16,1723.13,Credit Card,7,20,No,Jeans,SKU0937,XXL,In Stock,Email Marketing,35
+CUST00938,10,Pune,New,ORD000938,2023-01-31,2861.57,Net Banking,7,30,Yes,Jackets,SKU0938,M,In Stock,Word of Mouth,8
+CUST00939,56,Jaipur,Returning,ORD000939,2023-01-10,2386.26,Net Banking,4,15,Yes,Jackets,SKU0939,S,In Stock,Google Ads,46
+CUST00940,30,Delhi,Returning,ORD000940,2023-02-14,3813.26,COD,5,0,Yes,T-Shirts,SKU0940,M,In Stock,Facebook Ads,77
+CUST00941,50,Jaipur,Returning,ORD000941,2023-08-14,1917.14,Net Banking,3,25,No,T-Shirts,SKU0941,L,In Stock,Word of Mouth,50
+CUST00942,59,Pune,Returning,ORD000942,2023-07-24,1172.78,COD,4,20,No,Shirts,SKU0942,L,In Stock,Word of Mouth,75
+CUST00943,45,Mumbai,Returning,ORD000943,2023-06-07,1976.52,UPI,4,25,No,Shirts,SKU0943,S,In Stock,Instagram,56
+CUST00944,5,Pune,New,ORD000944,2023-01-29,1967.37,Wallet,3,25,No,Shirts,SKU0944,XXL,In Stock,Facebook Ads,31
+CUST00945,55,Delhi,Returning,ORD000945,2023-12-26,2383.7,UPI,5,50,Yes,Shirts,SKU0945,XL,In Stock,Email Marketing,66
+CUST00946,56,Chennai,Returning,ORD000946,2023-02-16,3451.81,COD,5,15,No,Sweatshirts,SKU0946,L,In Stock,Word of Mouth,56
+CUST00947,33,Kolkata,Returning,ORD000947,2023-12-16,3369.86,COD,7,5,No,Sweatshirts,SKU0947,S,Out of Stock,Word of Mouth,53
+CUST00948,54,Delhi,Returning,ORD000948,2023-05-04,4299.49,UPI,4,20,No,T-Shirts,SKU0948,XL,In Stock,Google Ads,15
+CUST00949,1,Pune,New,ORD000949,2023-07-28,1282.77,Credit Card,4,0,Yes,Jeans,SKU0949,XXL,In Stock,Instagram,61
+CUST00950,18,Kolkata,Returning,ORD000950,2023-01-29,3083.08,Credit Card,9,30,No,Jackets,SKU0950,L,In Stock,Word of Mouth,83
+CUST00951,32,Pune,Returning,ORD000951,2023-04-05,3590.98,Credit Card,6,0,No,Jeans,SKU0951,S,In Stock,Word of Mouth,95
+CUST00952,47,Chennai,Returning,ORD000952,2023-04-02,1488.67,COD,4,5,No,Dresses,SKU0952,S,In Stock,Email Marketing,55
+CUST00953,49,Pune,Returning,ORD000953,2023-04-09,2188.55,Net Banking,2,30,No,Sweatshirts,SKU0953,S,In Stock,Email Marketing,22
+CUST00954,11,Mumbai,New,ORD000954,2023-10-14,500.0,COD,6,15,Yes,Shirts,SKU0954,L,Out of Stock,Google Ads,16
+CUST00955,21,Bangalore,Returning,ORD000955,2023-12-13,3860.29,Net Banking,2,5,No,Shirts,SKU0955,XL,Out of Stock,Google Ads,79
+CUST00956,26,Jaipur,Returning,ORD000956,2023-11-01,2176.75,UPI,5,10,Yes,Dresses,SKU0956,S,In Stock,Google Ads,37
+CUST00957,25,Jaipur,Returning,ORD000957,2023-12-18,3709.85,Wallet,6,30,No,Jeans,SKU0957,XXL,In Stock,Email Marketing,71
+CUST00958,22,Delhi,Returning,ORD000958,2023-10-22,2809.07,Net Banking,4,5,No,Shirts,SKU0958,S,In Stock,Email Marketing,82
+CUST00959,59,Bangalore,Returning,ORD000959,2023-06-11,2222.25,Credit Card,3,30,Yes,Jeans,SKU0959,XL,In Stock,Instagram,29
+CUST00960,27,Pune,Returning,ORD000960,2023-01-19,500.0,COD,7,0,No,Jackets,SKU0960,L,In Stock,Facebook Ads,57
+CUST00961,49,Chennai,Returning,ORD000961,2023-11-05,500.0,UPI,2,25,No,Dresses,SKU0961,S,In Stock,Facebook Ads,97
+CUST00962,13,Delhi,Returning,ORD000962,2023-02-10,500.0,Credit Card,6,30,Yes,Jeans,SKU0962,S,In Stock,Instagram,77
+CUST00963,33,Pune,Returning,ORD000963,2023-06-11,1656.08,UPI,4,0,No,Jackets,SKU0963,XXL,In Stock,Facebook Ads,21
+CUST00964,34,Kolkata,Returning,ORD000964,2023-12-17,5917.37,Wallet,6,10,No,Jeans,SKU0964,XXL,In Stock,Email Marketing,16
+CUST00965,41,Hyderabad,Returning,ORD000965,2023-08-01,568.08,COD,4,0,No,Jeans,SKU0965,S,Out of Stock,Facebook Ads,14
+CUST00966,35,Pune,Returning,ORD000966,2023-04-04,500.0,COD,4,25,No,Shirts,SKU0966,S,In Stock,Email Marketing,47
+CUST00967,1,Bangalore,New,ORD000967,2023-06-25,3944.0,Wallet,4,15,No,T-Shirts,SKU0967,XXL,In Stock,Instagram,31
+CUST00968,21,Delhi,Returning,ORD000968,2023-02-12,6045.58,COD,9,20,No,Sweatshirts,SKU0968,XL,In Stock,Google Ads,76
+CUST00969,48,Bangalore,Returning,ORD000969,2023-07-04,2946.88,Net Banking,7,0,No,Jeans,SKU0969,M,Out of Stock,Instagram,84
+CUST00970,55,Delhi,Returning,ORD000970,2023-05-10,2933.1,UPI,3,0,No,Jeans,SKU0970,M,In Stock,Facebook Ads,39
+CUST00971,6,Pune,New,ORD000971,2023-05-11,2035.18,Credit Card,3,0,Yes,Jeans,SKU0971,S,In Stock,Email Marketing,96
+CUST00972,28,Mumbai,Returning,ORD000972,2023-05-16,500.0,Wallet,6,5,No,T-Shirts,SKU0972,XXL,In Stock,Facebook Ads,56
+CUST00973,17,Kolkata,Returning,ORD000973,2023-12-03,500.0,Net Banking,6,15,No,Jackets,SKU0973,L,In Stock,Facebook Ads,57
+CUST00974,5,Pune,New,ORD000974,2023-07-13,2024.87,Credit Card,4,30,Yes,Dresses,SKU0974,L,Out of Stock,Google Ads,90
+CUST00975,31,Jaipur,Returning,ORD000975,2023-07-31,1737.32,Credit Card,9,20,No,Shirts,SKU0975,M,In Stock,Facebook Ads,98
+CUST00976,5,Bangalore,New,ORD000976,2023-08-02,2327.24,Wallet,4,10,No,T-Shirts,SKU0976,XL,In Stock,Google Ads,15
+CUST00977,38,Hyderabad,Returning,ORD000977,2023-04-08,3743.99,Net Banking,9,50,No,Jackets,SKU0977,M,In Stock,Email Marketing,27
+CUST00978,3,Hyderabad,New,ORD000978,2023-02-08,1627.24,Credit Card,4,25,Yes,Jeans,SKU0978,S,In Stock,Email Marketing,97
+CUST00979,53,Chennai,Returning,ORD000979,2023-04-21,3774.58,Credit Card,2,40,Yes,Jackets,SKU0979,XL,In Stock,Google Ads,0
+CUST00980,23,Delhi,Returning,ORD000980,2023-11-03,1637.07,Net Banking,2,15,No,T-Shirts,SKU0980,L,In Stock,Instagram,40
+CUST00981,37,Bangalore,Returning,ORD000981,2023-10-19,4057.36,COD,5,0,No,T-Shirts,SKU0981,XXL,In Stock,Email Marketing,47
+CUST00982,53,Chennai,Returning,ORD000982,2023-07-12,2629.55,Credit Card,4,0,Yes,T-Shirts,SKU0982,XXL,In Stock,Instagram,30
+CUST00983,37,Bangalore,Returning,ORD000983,2023-05-20,1846.25,UPI,7,25,No,Dresses,SKU0983,S,In Stock,Email Marketing,35
+CUST00984,10,Jaipur,New,ORD000984,2023-11-13,2603.94,Net Banking,5,0,Yes,Sweatshirts,SKU0984,M,In Stock,Email Marketing,32
+CUST00985,10,Delhi,New,ORD000985,2023-03-25,2059.69,Credit Card,6,5,No,Shirts,SKU0985,S,In Stock,Word of Mouth,32
+CUST00986,19,Pune,Returning,ORD000986,2023-11-24,2669.7,Wallet,4,15,No,Dresses,SKU0986,XXL,In Stock,Facebook Ads,81
+CUST00987,17,Pune,Returning,ORD000987,2023-11-29,3637.16,UPI,2,15,No,Dresses,SKU0987,L,In Stock,Facebook Ads,22
+CUST00988,21,Hyderabad,Returning,ORD000988,2023-06-30,2369.18,Credit Card,9,20,No,Sweatshirts,SKU0988,XXL,In Stock,Instagram,59
+CUST00989,14,Pune,Returning,ORD000989,2023-05-18,1945.65,UPI,7,0,No,Dresses,SKU0989,XL,Out of Stock,Facebook Ads,86
+CUST00990,9,Pune,New,ORD000990,2023-03-26,814.73,UPI,4,5,No,T-Shirts,SKU0990,XXL,In Stock,Instagram,78
+CUST00991,46,Jaipur,Returning,ORD000991,2023-07-16,3368.77,COD,3,20,No,T-Shirts,SKU0991,XXL,In Stock,Email Marketing,89
+CUST00992,1,Mumbai,New,ORD000992,2023-10-15,3022.41,UPI,3,50,No,Jackets,SKU0992,XL,In Stock,Word of Mouth,29
+CUST00993,51,Hyderabad,Returning,ORD000993,2023-11-19,727.09,COD,9,25,Yes,Jeans,SKU0993,M,Out of Stock,Word of Mouth,88
+CUST00994,45,Chennai,Returning,ORD000994,2023-12-23,3753.24,Net Banking,5,40,No,Dresses,SKU0994,XXL,In Stock,Email Marketing,44
+CUST00995,13,Kolkata,Returning,ORD000995,2023-11-01,702.72,COD,3,25,No,Jeans,SKU0995,S,In Stock,Google Ads,79
+CUST00996,4,Mumbai,New,ORD000996,2023-01-06,4043.83,Wallet,5,15,Yes,Shirts,SKU0996,XXL,In Stock,Google Ads,38
+CUST00997,1,Chennai,New,ORD000997,2023-07-30,3531.79,Credit Card,2,0,No,T-Shirts,SKU0997,S,In Stock,Facebook Ads,44
+CUST00998,49,Delhi,Returning,ORD000998,2023-01-08,3129.5,Net Banking,4,20,Yes,Jackets,SKU0998,XL,In Stock,Instagram,77
+CUST00999,40,Mumbai,Returning,ORD000999,2023-08-20,1934.51,Net Banking,2,20,No,Shirts,SKU0999,XXL,In Stock,Word of Mouth,80
+CUST01000,32,Jaipur,Returning,ORD001000,2023-04-29,3363.67,Wallet,2,20,No,Jackets,SKU1000,XL,In Stock,Facebook Ads,11
