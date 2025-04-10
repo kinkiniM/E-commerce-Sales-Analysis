@@ -25,12 +25,7 @@ This project presents a technical assessment of an eCommerce business, focusing 
 - **CSV Files** as input datasets
 - **Machine Learning**: XGBoost classifier for inventory prediction
 
-## 📁 Project Structure
 
-📦 ecommerce-analysis ├── data/ │ ├── transactions.csv │ ├── marketing.csv │ └── inventory.csv ├── notebooks/ │ ├── 1_data_cleaning.ipynb │ ├── 2_customer_analysis.ipynb │ ├── 3_returns_analysis.ipynb │ └── 4_inventory_modeling.ipynb ├── model/ │ └── inventory_classifier.pkl ├── summary/ │ └── executive_summary.pdf └── README.md
-
-yaml
-Copy code
 
 ## 📌 Deliverables
 
